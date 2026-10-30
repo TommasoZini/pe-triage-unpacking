@@ -1,0 +1,36 @@
+# Dipendenze della FASE 2 (emulazione e unpacking). Versioni fissate a quelle
+# effettivamente installate e usate nei test documentati in
+# status_aggiornamento_progetto.md (diagnosi Qiling, paragrafi 2.3 e 4.2).
+#
+#   python -m pip install -r requirements-fase1.txt -r requirements-fase2.txt
+#   python scripts/preflight.py --fase2
+#
+# Sono in un file SEPARATO, non perche' non servano, ma perche' la Fase 1 deve
+# poter girare senza: `parameters_info.py` importa subprocesses.py in modo
+# ritardato, cosi' `--phase1-only` funziona con sole due dipendenze. Unicorn in
+# particolare e' l'installazione piu' fragile dello stack (su alcune macchine
+# richiede un compilatore), e non ha senso che blocchi il triage statico.
+
+# Emulatore su cui si appoggia la cascata di unpacking dinamico.
+# NB: 1.4.11 e' la versione su cui sono state diagnosticate le API mancanti
+# (ZwOpenSection, ZwMapViewOfSection, EncodePointer/DecodePointer...) e su cui
+# sono stati scritti gli hook localizzati in subprocesses.py. Cambiarla
+# invalida quelle correzioni.
+qiling==1.4.11
+
+# Motore di emulazione usato da Qiling. La versione e' legata a quella di Qiling.
+unicorn==2.1.3
+
+# Parsing PE della Fase 2. La Fase 1 usa LIEF, questa e' una dipendenza di
+# subprocesses.py (monkeypatch di Process.init_imports per l'IAT assente).
+pefile==2024.8.26
+
+# --- non installabili con pip, servono comunque alla Fase 2 --------------------
+# Ghidra (analisi headless, verifica dei dump)      -> GHIDRA_HEADLESS_PATH
+# UPX (con -d, per la decompressione)               -> gia' fra i packer
+# AspackDie, InnoUnp, Unipacker, mal_unpack         -> percorsi in subprocesses.py
+#
+# Stato reale della Fase 2, da sapere prima di installare: su 5 campioni con
+# ground truth certa, 2 dei "successi" di Qiling producevano un dump con .text
+# a zeri. Il criterio di successo (>= 5 funzioni trovate da Ghidra) e' troppo
+# debole. Vedi status_aggiornamento_progetto.md paragrafi 3.2 e 4.3.

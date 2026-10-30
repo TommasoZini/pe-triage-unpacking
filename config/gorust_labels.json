@@ -1,0 +1,98 @@
+{
+  "apiclient_deps_g10.exe": {
+    "label": "clean",
+    "note": "GO compilato in proprio su questa macchina. Profilo: con dipendenze (http+json+crypto+uuid). Toolchain: go1.27.1 windows/amd64. Comando: go mod tidy && go build. Oracolo di provenienza diretta: non e' una firma di terzi ne' una verifica strutturale.",
+    "packers": [],
+    "source": "compilato-in-proprio"
+  },
+  "crc_abort_r7.exe": {
+    "label": "clean",
+    "note": "RUST compilato in proprio su questa macchina. Profilo: release + panic=abort. Toolchain: rustc 1.98.1 x86_64-pc-windows-gnu. Comando: cargo build --release. Oracolo di provenienza diretta: non e' una firma di terzi ne' una verifica strutturale.",
+    "packers": [],
+    "source": "compilato-in-proprio"
+  },
+  "filewalk_optz_r5.exe": {
+    "label": "clean",
+    "note": "RUST compilato in proprio su questa macchina. Profilo: release + opt-level=z + lto. Toolchain: rustc 1.98.1 x86_64-pc-windows-gnu. Comando: cargo build --release. Oracolo di provenienza diretta: non e' una firma di terzi ne' una verifica strutturale.",
+    "packers": [],
+    "source": "compilato-in-proprio"
+  },
+  "filewalk_static_g5.exe": {
+    "label": "clean",
+    "note": "GO compilato in proprio su questa macchina. Profilo: statico puro (CGO_ENABLED=0). Toolchain: go1.27.1 windows/amd64. Comando: CGO_ENABLED=0 go build. Oracolo di provenienza diretta: non e' una firma di terzi ne' una verifica strutturale.",
+    "packers": [],
+    "source": "compilato-in-proprio"
+  },
+  "greeter_debug_r1.exe": {
+    "label": "clean",
+    "note": "RUST compilato in proprio su questa macchina. Profilo: debug. Toolchain: rustc 1.98.1 x86_64-pc-windows-gnu. Comando: cargo build. Oracolo di provenienza diretta: non e' una firma di terzi ne' una verifica strutturale.",
+    "packers": [],
+    "source": "compilato-in-proprio"
+  },
+  "hello_default_g1.exe": {
+    "label": "clean",
+    "note": "GO compilato in proprio su questa macchina. Profilo: default. Toolchain: go1.27.1 windows/amd64. Comando: go build. Oracolo di provenienza diretta: non e' una firma di terzi ne' una verifica strutturale.",
+    "packers": [],
+    "source": "compilato-in-proprio"
+  },
+  "matrix_abort_r8.exe": {
+    "label": "clean",
+    "note": "RUST compilato in proprio su questa macchina. Profilo: release + panic=abort. Toolchain: rustc 1.98.1 x86_64-pc-windows-gnu. Comando: cargo build --release. Oracolo di provenienza diretta: non e' una firma di terzi ne' una verifica strutturale.",
+    "packers": [],
+    "source": "compilato-in-proprio"
+  },
+  "netjson_deps_g9.exe": {
+    "label": "clean",
+    "note": "GO compilato in proprio su questa macchina. Profilo: con dipendenze (http+json+crypto+uuid). Toolchain: go1.27.1 windows/amd64. Comando: go mod tidy && go build. Oracolo di provenienza diretta: non e' una firma di terzi ne' una verifica strutturale.",
+    "packers": [],
+    "source": "compilato-in-proprio"
+  },
+  "primesieve_optz_r6.exe": {
+    "label": "clean",
+    "note": "RUST compilato in proprio su questa macchina. Profilo: release + opt-level=z + lto. Toolchain: rustc 1.98.1 x86_64-pc-windows-gnu. Comando: cargo build --release. Oracolo di provenienza diretta: non e' una firma di terzi ne' una verifica strutturale.",
+    "packers": [],
+    "source": "compilato-in-proprio"
+  },
+  "primesieve_static_g6.exe": {
+    "label": "clean",
+    "note": "GO compilato in proprio su questa macchina. Profilo: statico puro (CGO_ENABLED=0). Toolchain: go1.27.1 windows/amd64. Comando: CGO_ENABLED=0 go build. Oracolo di provenienza diretta: non e' una firma di terzi ne' una verifica strutturale.",
+    "packers": [],
+    "source": "compilato-in-proprio"
+  },
+  "rpncalc_release_r3.exe": {
+    "label": "clean",
+    "note": "RUST compilato in proprio su questa macchina. Profilo: release. Toolchain: rustc 1.98.1 x86_64-pc-windows-gnu. Comando: cargo build --release. Oracolo di provenienza diretta: non e' una firma di terzi ne' una verifica strutturale.",
+    "packers": [],
+    "source": "compilato-in-proprio"
+  },
+  "rpncalc_stripped_g3.exe": {
+    "label": "clean",
+    "note": "GO compilato in proprio su questa macchina. Profilo: stripped (-s -w). Toolchain: go1.27.1 windows/amd64. Comando: go build -ldflags \"-s -w\". Oracolo di provenienza diretta: non e' una firma di terzi ne' una verifica strutturale.",
+    "packers": [],
+    "source": "compilato-in-proprio"
+  },
+  "sysinfo_debug_r2.exe": {
+    "label": "clean",
+    "note": "RUST compilato in proprio su questa macchina. Profilo: debug. Toolchain: rustc 1.98.1 x86_64-pc-windows-gnu. Comando: cargo build. Oracolo di provenienza diretta: non e' una firma di terzi ne' una verifica strutturale.",
+    "packers": [],
+    "source": "compilato-in-proprio"
+  },
+  "sysinfo_default_g2.exe": {
+    "label": "clean",
+    "note": "GO compilato in proprio su questa macchina. Profilo: default. Toolchain: go1.27.1 windows/amd64. Comando: go build. Oracolo di provenienza diretta: non e' una firma di terzi ne' una verifica strutturale.",
+    "packers": [],
+    "source": "compilato-in-proprio"
+  },
+  "textcipher_release_r4.exe": {
+    "label": "clean",
+    "note": "RUST compilato in proprio su questa macchina. Profilo: release. Toolchain: rustc 1.98.1 x86_64-pc-windows-gnu. Comando: cargo build --release. Oracolo di provenienza diretta: non e' una firma di terzi ne' una verifica strutturale.",
+    "packers": [],
+    "source": "compilato-in-proprio"
+  },
+  "textcipher_stripped_g4.exe": {
+    "label": "clean",
+    "note": "GO compilato in proprio su questa macchina. Profilo: stripped (-s -w). Toolchain: go1.27.1 windows/amd64. Comando: go build -ldflags \"-s -w\". Oracolo di provenienza diretta: non e' una firma di terzi ne' una verifica strutturale.",
+    "packers": [],
+    "source": "compilato-in-proprio"
+  }
+}

@@ -1,0 +1,45 @@
+# Dipendenze della FASE 1 (triage statico). Versioni fissate a quelle con cui i
+# risultati documentati in FASE1_come_funziona.md sono stati prodotti.
+#
+#   python -m pip install -r requirements-fase1.txt
+#
+# Testato su Python 3.13.13, Windows 10 x64.
+
+# --- obbligatorie ---------------------------------------------------------------
+# Parsing di PE ed ELF: sezioni, entry point, import/export, overlay.
+# ATTENZIONE alla major: l'API di LIEF 1.x NON e' compatibile con la 0.x.
+# Con LIEF 0.17 la pipeline non gira. Verificalo con scripts/preflight.py.
+lief==1.0.0
+
+# Motore delle regole YARA.
+yara-python==4.5.4
+
+# --- opzionale: capa -----------------------------------------------------------
+# Disattivato per default (CAPA_MODE = "off"): su 189 file consumava il 96 % del
+# tempo di fase, produceva 0 segnali forti e cambiava 0 verdetti. Serve solo per
+# --capa-mode full, cioe' per un confronto fra strumenti su un sottoinsieme.
+flare-capa==9.4.0
+
+# --- opzionale: download dei campioni da MalwareBazaar (scripts/extraction.py) --
+requests==2.34.2
+pyzipper==0.4.0
+
+# --- opzionale: classe negativa non-Microsoft (scripts/fetch_goodware_non_ms.py) -
+# `requests` sopra basta per Cygwin e per gli zip dei singoli progetti. `zstandard`
+# serve SOLO alle due sorgenti MSYS2: i loro pacchetti sono .pkg.tar.zst e il
+# database pacman da cui si leggono versione e SHA256SUM ufficiale e' compresso con
+# zstd, che la stdlib di Python 3.13 non decomprime (arriva in 3.14 come
+# `compression.zstd`). Senza questo pacchetto lo script salta quelle due sorgenti
+# e lo dice nel log, le altre cinque funzionano.
+zstandard==0.25.0
+
+# --- Fase 2: in requirements-fase2.txt -----------------------------------------
+# qiling, unicorn e pefile sono FISSATI in `requirements-fase2.txt`, non qui.
+# Non e' un'esclusione: e' che la Fase 1 deve poter girare senza. parameters_info.py
+# importa subprocesses.py in modo ritardato, quindi --phase1-only funziona con sole
+# lief e yara-python. Per avere tutto:
+#
+#   python -m pip install -r requirements-fase1.txt -r requirements-fase2.txt
+#
+# `tkinter` fa parte della standard library di Windows e serve solo alla finestra
+# di selezione cartella quando si omette --dir.

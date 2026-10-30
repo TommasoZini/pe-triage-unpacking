@@ -1,0 +1,1802 @@
+{
+ "dotnet_sdk__sdk__8.0.426__ja__Microsoft.Build.Utilities.Core.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/ja/Microsoft.Build.Utilities.Core.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__Sdks__Microsoft.NET.Sdk__tools__net472__Microsoft.NET.HostModel.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/Sdks/Microsoft.NET.Sdk/tools/net472/Microsoft.NET.HostModel.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__pt-BR__Microsoft.TemplateEngine.Edge.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/pt-BR/Microsoft.TemplateEngine.Edge.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__packs__Microsoft.AspNetCore.App.Ref__8.0.32__analyzers__dotnet__roslyn4.4__cs__zh-Hans__Microsoft.Extensions.Logging.Generators.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro packs/Microsoft.AspNetCore.App.Ref/8.0.32/analyzers/dotnet/roslyn4.4/cs/zh-Hans/Microsoft.Extensions.Logging.Generators.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__Sdks__Microsoft.NET.Sdk__codestyle__vb__pt-BR__Microsoft.CodeAnalysis.VisualBasic.CodeStyle.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/Sdks/Microsoft.NET.Sdk/codestyle/vb/pt-BR/Microsoft.CodeAnalysis.VisualBasic.CodeStyle.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__Sdks__Microsoft.NET.Sdk__tools__net8.0__de__Microsoft.DotNet.ApiSymbolExtensions.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/Sdks/Microsoft.NET.Sdk/tools/net8.0/de/Microsoft.DotNet.ApiSymbolExtensions.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__NuGet.ProjectModel.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/NuGet.ProjectModel.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__shared__Microsoft.AspNetCore.App__8.0.32__Microsoft.AspNetCore.Diagnostics.HealthChecks.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro shared/Microsoft.AspNetCore.App/8.0.32/Microsoft.AspNetCore.Diagnostics.HealthChecks.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__shared__Microsoft.AspNetCore.App__8.0.32__Microsoft.AspNetCore.Mvc.Abstractions.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro shared/Microsoft.AspNetCore.App/8.0.32/Microsoft.AspNetCore.Mvc.Abstractions.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__DotnetTools__dotnet-watch__8.0.426-servicing.26505.9__tools__net8.0__any__de__Microsoft.CodeAnalysis.Features.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/DotnetTools/dotnet-watch/8.0.426-servicing.26505.9/tools/net8.0/any/de/Microsoft.CodeAnalysis.Features.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__TestHostNetFramework__System.Security.Claims.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/TestHostNetFramework/System.Security.Claims.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__Sdks__Microsoft.NET.Sdk__tools__net472__zh-Hans__Microsoft.DotNet.ApiCompat.Task.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/Sdks/Microsoft.NET.Sdk/tools/net472/zh-Hans/Microsoft.DotNet.ApiCompat.Task.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__Sdks__Microsoft.NET.Sdk__tools__net8.0__es__Microsoft.DotNet.ApiSymbolExtensions.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/Sdks/Microsoft.NET.Sdk/tools/net8.0/es/Microsoft.DotNet.ApiSymbolExtensions.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__dotnet.exe": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro dotnet.exe). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__DotnetTools__dotnet-format__zh-Hans__Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/DotnetTools/dotnet-format/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__packs__Microsoft.AspNetCore.App.Ref__8.0.32__ref__net8.0__Microsoft.AspNetCore.HostFiltering.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro packs/Microsoft.AspNetCore.App.Ref/8.0.32/ref/net8.0/Microsoft.AspNetCore.HostFiltering.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__packs__Microsoft.NETCore.App.Ref__8.0.32__analyzers__dotnet__cs__es__System.Text.RegularExpressions.Generator.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro packs/Microsoft.NETCore.App.Ref/8.0.32/analyzers/dotnet/cs/es/System.Text.RegularExpressions.Generator.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__shared__Microsoft.NETCore.App__8.0.32__System.Linq.Parallel.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro shared/Microsoft.NETCore.App/8.0.32/System.Linq.Parallel.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__zh-Hant__Microsoft.TemplateEngine.Core.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/zh-Hant/Microsoft.TemplateEngine.Core.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__pt-BR__NuGet.Protocol.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/pt-BR/NuGet.Protocol.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__zh-Hant__NuGet.Configuration.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/zh-Hant/NuGet.Configuration.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__packs__Microsoft.NETCore.App.Ref__8.0.32__analyzers__dotnet__cs__ru__Microsoft.Interop.SourceGeneration.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro packs/Microsoft.NETCore.App.Ref/8.0.32/analyzers/dotnet/cs/ru/Microsoft.Interop.SourceGeneration.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__packs__NETStandard.Library.Ref__2.1.0__ref__netstandard2.1__System.Memory.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro packs/NETStandard.Library.Ref/2.1.0/ref/netstandard2.1/System.Memory.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__System.Security.Cryptography.Xml.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/System.Security.Cryptography.Xml.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__Sdks__Microsoft.NET.Sdk__tools__net8.0__it__Microsoft.NET.Build.Tasks.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/Sdks/Microsoft.NET.Sdk/tools/net8.0/it/Microsoft.NET.Build.Tasks.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__packs__Microsoft.NETCore.App.Ref__8.0.32__ref__net8.0__System.Web.HttpUtility.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro packs/Microsoft.NETCore.App.Ref/8.0.32/ref/net8.0/System.Web.HttpUtility.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__packs__NETStandard.Library.Ref__2.1.0__ref__netstandard2.1__System.AppContext.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro packs/NETStandard.Library.Ref/2.1.0/ref/netstandard2.1/System.AppContext.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__Microsoft__Microsoft.NET.Build.Extensions__tools__net8.0__de__Microsoft.NET.Build.Extensions.Tasks.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/Microsoft/Microsoft.NET.Build.Extensions/tools/net8.0/de/Microsoft.NET.Build.Extensions.Tasks.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__shared__Microsoft.WindowsDesktop.App__8.0.32__ko__UIAutomationTypes.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro shared/Microsoft.WindowsDesktop.App/8.0.32/ko/UIAutomationTypes.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__shared__Microsoft.NETCore.App__8.0.32__System.Diagnostics.FileVersionInfo.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro shared/Microsoft.NETCore.App/8.0.32/System.Diagnostics.FileVersionInfo.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__Extensions__es__Microsoft.TestPlatform.Extensions.EventLogCollector.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/Extensions/es/Microsoft.TestPlatform.Extensions.EventLogCollector.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__DotnetTools__dotnet-format__Microsoft.DiaSymReader.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/DotnetTools/dotnet-format/Microsoft.DiaSymReader.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__Containers__containerize__Microsoft.Extensions.Logging.Configuration.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/Containers/containerize/Microsoft.Extensions.Logging.Configuration.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__Containers__tasks__net472__NuGet.Common.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/Containers/tasks/net472/NuGet.Common.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__packs__NETStandard.Library.Ref__2.1.0__ref__netstandard2.1__System.IO.Pipes.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro packs/NETStandard.Library.Ref/2.1.0/ref/netstandard2.1/System.IO.Pipes.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__shared__Microsoft.AspNetCore.App__8.0.32__Microsoft.AspNetCore.SignalR.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro shared/Microsoft.AspNetCore.App/8.0.32/Microsoft.AspNetCore.SignalR.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__packs__Microsoft.NETCore.App.Ref__8.0.32__analyzers__dotnet__cs__fr__System.Text.RegularExpressions.Generator.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro packs/Microsoft.NETCore.App.Ref/8.0.32/analyzers/dotnet/cs/fr/System.Text.RegularExpressions.Generator.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__packs__NETStandard.Library.Ref__2.1.0__ref__netstandard2.1__System.Diagnostics.TraceSource.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro packs/NETStandard.Library.Ref/2.1.0/ref/netstandard2.1/System.Diagnostics.TraceSource.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__shared__Microsoft.NETCore.App__8.0.32__System.Xml.XPath.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro shared/Microsoft.NETCore.App/8.0.32/System.Xml.XPath.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__packs__Microsoft.NETCore.App.Ref__8.0.32__analyzers__dotnet__cs__System.Text.RegularExpressions.Generator.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro packs/Microsoft.NETCore.App.Ref/8.0.32/analyzers/dotnet/cs/System.Text.RegularExpressions.Generator.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__shared__Microsoft.WindowsDesktop.App__8.0.32__es__System.Windows.Forms.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro shared/Microsoft.WindowsDesktop.App/8.0.32/es/System.Windows.Forms.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__DotnetTools__dotnet-watch__8.0.426-servicing.26505.9__tools__net8.0__any__zh-Hant__Microsoft.CodeAnalysis.Scripting.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/DotnetTools/dotnet-watch/8.0.426-servicing.26505.9/tools/net8.0/any/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__DotnetTools__dotnet-format__BuildHost-net472__it__System.CommandLine.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/DotnetTools/dotnet-format/BuildHost-net472/it/System.CommandLine.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__Sdks__Microsoft.NET.Sdk.WindowsDesktop__tools__net8.0__tr__PresentationBuildTasks.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/Sdks/Microsoft.NET.Sdk.WindowsDesktop/tools/net8.0/tr/PresentationBuildTasks.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__shared__Microsoft.WindowsDesktop.App__8.0.32__ja__PresentationUI.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro shared/Microsoft.WindowsDesktop.App/8.0.32/ja/PresentationUI.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__shared__Microsoft.WindowsDesktop.App__8.0.32__System.Windows.Forms.Design.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro shared/Microsoft.WindowsDesktop.App/8.0.32/System.Windows.Forms.Design.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__packs__Microsoft.AspNetCore.App.Ref__8.0.32__ref__net8.0__Microsoft.AspNetCore.Authentication.Core.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro packs/Microsoft.AspNetCore.App.Ref/8.0.32/ref/net8.0/Microsoft.AspNetCore.Authentication.Core.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__ref__Microsoft.Build.Utilities.Core.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/ref/Microsoft.Build.Utilities.Core.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__ko__Microsoft.DotNet.TemplateLocator.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/ko/Microsoft.DotNet.TemplateLocator.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__Sdks__Microsoft.NET.Sdk__codestyle__cs__es__Microsoft.CodeAnalysis.CSharp.CodeStyle.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/Sdks/Microsoft.NET.Sdk/codestyle/cs/es/Microsoft.CodeAnalysis.CSharp.CodeStyle.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__FSharp__it__FSharp.Core.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/FSharp/it/FSharp.Core.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__fr__Microsoft.TemplateSearch.Common.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/fr/Microsoft.TemplateSearch.Common.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__packs__Microsoft.WindowsDesktop.App.Ref__8.0.32__ref__net8.0__System.Windows.Forms.Design.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro packs/Microsoft.WindowsDesktop.App.Ref/8.0.32/ref/net8.0/System.Windows.Forms.Design.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__packs__Microsoft.WindowsDesktop.App.Ref__8.0.32__ref__net8.0__System.Drawing.Common.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro packs/Microsoft.WindowsDesktop.App.Ref/8.0.32/ref/net8.0/System.Drawing.Common.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__Microsoft.Win32.Msi.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/Microsoft.Win32.Msi.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__System.Resources.Extensions.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/System.Resources.Extensions.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__packs__Microsoft.NETCore.App.Ref__8.0.32__ref__net8.0__System.Runtime.Serialization.Xml.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro packs/Microsoft.NETCore.App.Ref/8.0.32/ref/net8.0/System.Runtime.Serialization.Xml.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__packs__Microsoft.WindowsDesktop.App.Ref__8.0.32__ref__net8.0__PresentationFramework.AeroLite.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro packs/Microsoft.WindowsDesktop.App.Ref/8.0.32/ref/net8.0/PresentationFramework.AeroLite.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__ko__NuGet.Credentials.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/ko/NuGet.Credentials.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__DotnetTools__dotnet-format__tr__Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/DotnetTools/dotnet-format/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__pl__Microsoft.CodeCoverage.IO.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/pl/Microsoft.CodeCoverage.IO.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__Sdks__Microsoft.NET.Sdk__tools__net472__pt-BR__Microsoft.NET.Build.Tasks.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/Sdks/Microsoft.NET.Sdk/tools/net472/pt-BR/Microsoft.NET.Build.Tasks.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__shared__Microsoft.AspNetCore.App__8.0.32__Microsoft.AspNetCore.Http.Results.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro shared/Microsoft.AspNetCore.App/8.0.32/Microsoft.AspNetCore.Http.Results.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__packs__Microsoft.WindowsDesktop.App.Ref__8.0.32__analyzers__dotnet__cs__pt-BR__System.Windows.Forms.Analyzers.CSharp.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro packs/Microsoft.WindowsDesktop.App.Ref/8.0.32/analyzers/dotnet/cs/pt-BR/System.Windows.Forms.Analyzers.CSharp.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__Sdks__Microsoft.NET.Sdk__codestyle__vb__zh-Hant__Microsoft.CodeAnalysis.VisualBasic.CodeStyle.Fixes.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/Sdks/Microsoft.NET.Sdk/codestyle/vb/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.CodeStyle.Fixes.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__Sdks__Microsoft.SourceLink.AzureRepos.Git__tools__net472__pl__Microsoft.SourceLink.AzureRepos.Git.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/Sdks/Microsoft.SourceLink.AzureRepos.Git/tools/net472/pl/Microsoft.SourceLink.AzureRepos.Git.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__DotnetTools__dotnet-format__ko__Microsoft.CodeAnalysis.Scripting.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/DotnetTools/dotnet-format/ko/Microsoft.CodeAnalysis.Scripting.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__shared__Microsoft.AspNetCore.App__8.0.32__Microsoft.Extensions.Configuration.CommandLine.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro shared/Microsoft.AspNetCore.App/8.0.32/Microsoft.Extensions.Configuration.CommandLine.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__packs__Microsoft.AspNetCore.App.Ref__8.0.32__ref__net8.0__Microsoft.AspNetCore.Components.Web.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro packs/Microsoft.AspNetCore.App.Ref/8.0.32/ref/net8.0/Microsoft.AspNetCore.Components.Web.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__Containers__tasks__net472__System.ValueTuple.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/Containers/tasks/net472/System.ValueTuple.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__Roslyn__zh-Hant__Microsoft.Build.Tasks.CodeAnalysis.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/Roslyn/zh-Hant/Microsoft.Build.Tasks.CodeAnalysis.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__ko__Microsoft.Build.Utilities.Core.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/ko/Microsoft.Build.Utilities.Core.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__shared__Microsoft.NETCore.App__8.0.32__System.Collections.Specialized.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro shared/Microsoft.NETCore.App/8.0.32/System.Collections.Specialized.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__shared__Microsoft.NETCore.App__8.0.32__System.Net.Mail.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro shared/Microsoft.NETCore.App/8.0.32/System.Net.Mail.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__Extensions__pt-BR__Microsoft.VisualStudio.TestPlatform.Extensions.Html.TestLogger.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/Extensions/pt-BR/Microsoft.VisualStudio.TestPlatform.Extensions.Html.TestLogger.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__shared__Microsoft.AspNetCore.App__8.0.32__Microsoft.AspNetCore.Mvc.Core.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro shared/Microsoft.AspNetCore.App/8.0.32/Microsoft.AspNetCore.Mvc.Core.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__shared__Microsoft.WindowsDesktop.App__8.0.32__de__Microsoft.VisualBasic.Forms.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro shared/Microsoft.WindowsDesktop.App/8.0.32/de/Microsoft.VisualBasic.Forms.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__shared__Microsoft.WindowsDesktop.App__8.0.32__zh-Hans__WindowsBase.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro shared/Microsoft.WindowsDesktop.App/8.0.32/zh-Hans/WindowsBase.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__zh-Hans__Microsoft.DotNet.TemplateLocator.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/zh-Hans/Microsoft.DotNet.TemplateLocator.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__ru__NuGet.ProjectModel.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/ru/NuGet.ProjectModel.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__packs__Microsoft.AspNetCore.App.Ref__8.0.32__ref__net8.0__Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro packs/Microsoft.AspNetCore.App.Ref/8.0.32/ref/net8.0/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__packs__Microsoft.NETCore.App.Ref__8.0.32__ref__net8.0__System.IO.Compression.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro packs/Microsoft.NETCore.App.Ref/8.0.32/ref/net8.0/System.IO.Compression.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__shared__Microsoft.NETCore.App__8.0.32__System.Threading.Tasks.Extensions.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro shared/Microsoft.NETCore.App/8.0.32/System.Threading.Tasks.Extensions.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__Extensions__ja__Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/Extensions/ja/Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__fr__Microsoft.DotNet.TemplateLocator.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/fr/Microsoft.DotNet.TemplateLocator.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__DotnetTools__dotnet-watch__8.0.426-servicing.26505.9__tools__net8.0__any__ja__dotnet-watch.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/DotnetTools/dotnet-watch/8.0.426-servicing.26505.9/tools/net8.0/any/ja/dotnet-watch.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__shared__Microsoft.WindowsDesktop.App__8.0.32__it__System.Windows.Controls.Ribbon.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro shared/Microsoft.WindowsDesktop.App/8.0.32/it/System.Windows.Controls.Ribbon.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__zh-Hans__NuGet.DependencyResolver.Core.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/zh-Hans/NuGet.DependencyResolver.Core.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__Roslyn__bincore__zh-Hant__Microsoft.CodeAnalysis.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/Roslyn/bincore/zh-Hant/Microsoft.CodeAnalysis.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__Extensions__Microsoft.VisualStudio.TestPlatform.Extensions.Html.TestLogger.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/Extensions/Microsoft.VisualStudio.TestPlatform.Extensions.Html.TestLogger.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__NuGet.Protocol.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/NuGet.Protocol.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__shared__Microsoft.NETCore.App__8.0.32__mscordaccore.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro shared/Microsoft.NETCore.App/8.0.32/mscordaccore.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__DotnetTools__dotnet-format__Microsoft.CodeAnalysis.Scripting.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/DotnetTools/dotnet-format/Microsoft.CodeAnalysis.Scripting.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__packs__Microsoft.NETCore.App.Host.win-arm64__8.0.32__runtimes__win-arm64__native__singlefilehost.exe": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro packs/Microsoft.NETCore.App.Host.win-arm64/8.0.32/runtimes/win-arm64/native/singlefilehost.exe). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__fr__Microsoft.DotNet.Configurer.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/fr/Microsoft.DotNet.Configurer.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__Extensions__zh-Hans__Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/Extensions/zh-Hans/Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__DotnetTools__dotnet-watch__8.0.426-servicing.26505.9__tools__net8.0__any__zh-Hans__Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/DotnetTools/dotnet-watch/8.0.426-servicing.26505.9/tools/net8.0/any/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__packs__Microsoft.NETCore.App.Ref__8.0.32__ref__net8.0__System.Runtime.Serialization.Formatters.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro packs/Microsoft.NETCore.App.Ref/8.0.32/ref/net8.0/System.Runtime.Serialization.Formatters.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__es__Microsoft.TemplateEngine.Core.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/es/Microsoft.TemplateEngine.Core.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__Sdks__Microsoft.NET.Sdk__codestyle__cs__pt-BR__Microsoft.CodeAnalysis.CodeStyle.Fixes.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/Sdks/Microsoft.NET.Sdk/codestyle/cs/pt-BR/Microsoft.CodeAnalysis.CodeStyle.Fixes.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__shared__Microsoft.WindowsDesktop.App__8.0.32__System.Threading.AccessControl.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro shared/Microsoft.WindowsDesktop.App/8.0.32/System.Threading.AccessControl.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__packs__Microsoft.NETCore.App.Ref__8.0.32__ref__net8.0__Microsoft.VisualBasic.Core.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro packs/Microsoft.NETCore.App.Ref/8.0.32/ref/net8.0/Microsoft.VisualBasic.Core.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__tr__NuGet.Build.Tasks.Console.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/tr/NuGet.Build.Tasks.Console.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__shared__Microsoft.WindowsDesktop.App__8.0.32__Microsoft.Win32.SystemEvents.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro shared/Microsoft.WindowsDesktop.App/8.0.32/Microsoft.Win32.SystemEvents.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__DotnetTools__dotnet-format__pl__Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/DotnetTools/dotnet-format/pl/Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__FSharp__ko__FSharp.Build.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/FSharp/ko/FSharp.Build.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__shared__Microsoft.NETCore.App__8.0.32__System.Collections.NonGeneric.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro shared/Microsoft.NETCore.App/8.0.32/System.Collections.NonGeneric.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__DotnetTools__dotnet-watch__8.0.426-servicing.26505.9__tools__net8.0__any__Microsoft.CodeAnalysis.Features.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/DotnetTools/dotnet-watch/8.0.426-servicing.26505.9/tools/net8.0/any/Microsoft.CodeAnalysis.Features.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__DotnetTools__dotnet-format__tr__Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/DotnetTools/dotnet-format/tr/Microsoft.CodeAnalysis.VisualBasic.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__packs__Microsoft.NETCore.App.Ref__8.0.32__analyzers__dotnet__cs__it__System.Text.Json.SourceGeneration.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro packs/Microsoft.NETCore.App.Ref/8.0.32/analyzers/dotnet/cs/it/System.Text.Json.SourceGeneration.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__packs__Microsoft.AspNetCore.App.Ref__8.0.32__analyzers__dotnet__roslyn4.4__cs__cs__Microsoft.Extensions.Logging.Generators.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro packs/Microsoft.AspNetCore.App.Ref/8.0.32/analyzers/dotnet/roslyn4.4/cs/cs/Microsoft.Extensions.Logging.Generators.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__ja__NuGet.Common.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/ja/NuGet.Common.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__TestHostNetFramework__System.ComponentModel.TypeConverter.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/TestHostNetFramework/System.ComponentModel.TypeConverter.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__DotnetTools__dotnet-format__tr__dotnet-format.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/DotnetTools/dotnet-format/tr/dotnet-format.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__DotnetTools__dotnet-format__System.Composition.AttributedModel.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/DotnetTools/dotnet-format/System.Composition.AttributedModel.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__Containers__tasks__net472__Microsoft.Extensions.DependencyModel.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/Containers/tasks/net472/Microsoft.Extensions.DependencyModel.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__packs__NETStandard.Library.Ref__2.1.0__ref__netstandard2.1__System.Threading.Tasks.Extensions.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro packs/NETStandard.Library.Ref/2.1.0/ref/netstandard2.1/System.Threading.Tasks.Extensions.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__shared__Microsoft.WindowsDesktop.App__8.0.32__System.Windows.Forms.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro shared/Microsoft.WindowsDesktop.App/8.0.32/System.Windows.Forms.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__es__Microsoft.CodeCoverage.IO.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/es/Microsoft.CodeCoverage.IO.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__TestHostNetFramework__System.Diagnostics.TraceSource.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/TestHostNetFramework/System.Diagnostics.TraceSource.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__de__Microsoft.TestPlatform.CrossPlatEngine.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__Sdks__Microsoft.NET.Sdk.Razor__source-generators__System.Collections.Immutable.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/Sdks/Microsoft.NET.Sdk.Razor/source-generators/System.Collections.Immutable.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__DotnetTools__dotnet-format__BuildHost-netcore__System.Collections.Immutable.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/DotnetTools/dotnet-format/BuildHost-netcore/System.Collections.Immutable.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__ko__Microsoft.TestPlatform.Build.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/ko/Microsoft.TestPlatform.Build.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__Microsoft__Microsoft.NET.Build.Extensions__tools__net8.0__pt-BR__Microsoft.NET.Build.Extensions.Tasks.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/Microsoft/Microsoft.NET.Build.Extensions/tools/net8.0/pt-BR/Microsoft.NET.Build.Extensions.Tasks.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__Sdks__Microsoft.SourceLink.Common__tools__core__pl__Microsoft.SourceLink.Common.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/Sdks/Microsoft.SourceLink.Common/tools/core/pl/Microsoft.SourceLink.Common.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__DotnetTools__dotnet-format__zh-Hant__Microsoft.CodeAnalysis.VisualBasic.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/DotnetTools/dotnet-format/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__TestHostNetFramework__System.Runtime.InteropServices.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/TestHostNetFramework/System.Runtime.InteropServices.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__ru__NuGet.CommandLine.XPlat.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/ru/NuGet.CommandLine.XPlat.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__de__Microsoft.VisualStudio.TestPlatform.Client.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/de/Microsoft.VisualStudio.TestPlatform.Client.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__shared__Microsoft.NETCore.App__8.0.32__System.ServiceModel.Web.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro shared/Microsoft.NETCore.App/8.0.32/System.ServiceModel.Web.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__Sdks__Microsoft.SourceLink.GitLab__tools__net472__es__Microsoft.SourceLink.GitLab.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/Sdks/Microsoft.SourceLink.GitLab/tools/net472/es/Microsoft.SourceLink.GitLab.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__packs__Microsoft.NETCore.App.Ref__8.0.32__analyzers__dotnet__cs__ja__System.Text.Json.SourceGeneration.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro packs/Microsoft.NETCore.App.Ref/8.0.32/analyzers/dotnet/cs/ja/System.Text.Json.SourceGeneration.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__Containers__tasks__net472__System.Numerics.Vectors.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/Containers/tasks/net472/System.Numerics.Vectors.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__Sdks__Microsoft.NET.Sdk__tools__net472__fr__Microsoft.DotNet.ApiSymbolExtensions.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/Sdks/Microsoft.NET.Sdk/tools/net472/fr/Microsoft.DotNet.ApiSymbolExtensions.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__DotnetTools__dotnet-watch__8.0.426-servicing.26505.9__tools__net8.0__any__tr__Microsoft.CodeAnalysis.Features.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/DotnetTools/dotnet-watch/8.0.426-servicing.26505.9/tools/net8.0/any/tr/Microsoft.CodeAnalysis.Features.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__shared__Microsoft.WindowsDesktop.App__8.0.32__tr__System.Windows.Controls.Ribbon.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro shared/Microsoft.WindowsDesktop.App/8.0.32/tr/System.Windows.Controls.Ribbon.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__MSBuild.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/MSBuild.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__Containers__tasks__net472__Microsoft.Extensions.Logging.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/Containers/tasks/net472/Microsoft.Extensions.Logging.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__Sdks__Microsoft.SourceLink.GitLab__tools__core__tr__Microsoft.SourceLink.GitLab.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/Sdks/Microsoft.SourceLink.GitLab/tools/core/tr/Microsoft.SourceLink.GitLab.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__shared__Microsoft.AspNetCore.App__8.0.32__Microsoft.AspNetCore.Components.Server.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro shared/Microsoft.AspNetCore.App/8.0.32/Microsoft.AspNetCore.Components.Server.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__shared__Microsoft.NETCore.App__8.0.32__coreclr.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro shared/Microsoft.NETCore.App/8.0.32/coreclr.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__packs__Microsoft.NETCore.App.Ref__8.0.32__ref__net8.0__System.Transactions.Local.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro packs/Microsoft.NETCore.App.Ref/8.0.32/ref/net8.0/System.Transactions.Local.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__FSharp__de__FSharp.Build.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/FSharp/de/FSharp.Build.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__System.ComponentModel.Composition.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/System.ComponentModel.Composition.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__shared__Microsoft.AspNetCore.App__8.0.32__Microsoft.AspNetCore.StaticFiles.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro shared/Microsoft.AspNetCore.App/8.0.32/Microsoft.AspNetCore.StaticFiles.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__Roslyn__pl__Microsoft.Build.Tasks.CodeAnalysis.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/Roslyn/pl/Microsoft.Build.Tasks.CodeAnalysis.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__shared__Microsoft.WindowsDesktop.App__8.0.32__es__System.Windows.Forms.Primitives.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro shared/Microsoft.WindowsDesktop.App/8.0.32/es/System.Windows.Forms.Primitives.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__DotnetTools__dotnet-user-jwts__8.0.32-servicing.26505.5__tools__net8.0__any__Microsoft.Extensions.Configuration.FileExtensions.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/DotnetTools/dotnet-user-jwts/8.0.32-servicing.26505.5/tools/net8.0/any/Microsoft.Extensions.Configuration.FileExtensions.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__Roslyn__es__Microsoft.Build.Tasks.CodeAnalysis.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/Roslyn/es/Microsoft.Build.Tasks.CodeAnalysis.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__packs__Microsoft.NETCore.App.Host.win-x64__8.0.32__runtimes__win-x64__native__singlefilehost.exe": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro packs/Microsoft.NETCore.App.Host.win-x64/8.0.32/runtimes/win-x64/native/singlefilehost.exe). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__DotnetTools__dotnet-format__ru__Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/DotnetTools/dotnet-format/ru/Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__Sdks__Microsoft.NET.Sdk__codestyle__cs__fr__Microsoft.CodeAnalysis.CodeStyle.Fixes.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/Sdks/Microsoft.NET.Sdk/codestyle/cs/fr/Microsoft.CodeAnalysis.CodeStyle.Fixes.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__shared__Microsoft.NETCore.App__8.0.32__System.Console.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro shared/Microsoft.NETCore.App/8.0.32/System.Console.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__shared__Microsoft.WindowsDesktop.App__8.0.32__Microsoft.VisualBasic.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro shared/Microsoft.WindowsDesktop.App/8.0.32/Microsoft.VisualBasic.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__shared__Microsoft.AspNetCore.App__8.0.32__Microsoft.Extensions.Configuration.Abstractions.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro shared/Microsoft.AspNetCore.App/8.0.32/Microsoft.Extensions.Configuration.Abstractions.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__Extensions__cs__Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/Extensions/cs/Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__sdk__8.0.426__es__Microsoft.TemplateEngine.Orchestrator.RunnableProjects.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro sdk/8.0.426/es/Microsoft.TemplateEngine.Orchestrator.RunnableProjects.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__packs__Microsoft.AspNetCore.App.Ref__8.0.32__analyzers__dotnet__cs__tr__Microsoft.Extensions.Configuration.Binder.SourceGeneration.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro packs/Microsoft.AspNetCore.App.Ref/8.0.32/analyzers/dotnet/cs/tr/Microsoft.Extensions.Configuration.Binder.SourceGeneration.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__shared__Microsoft.WindowsDesktop.App__8.0.32__zh-Hant__UIAutomationTypes.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro shared/Microsoft.WindowsDesktop.App/8.0.32/zh-Hant/UIAutomationTypes.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__shared__Microsoft.WindowsDesktop.App__8.0.32__pl__UIAutomationProvider.resources.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro shared/Microsoft.WindowsDesktop.App/8.0.32/pl/UIAutomationProvider.resources.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "dotnet_sdk__shared__Microsoft.AspNetCore.App__8.0.32__Microsoft.AspNetCore.Http.Connections.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'dotnet_sdk' (archivio dotnet-sdk-8.0.426-win-x64.zip, sha256 b2523f881c97e132..., digest upstream verificato; membro shared/Microsoft.AspNetCore.App/8.0.32/Microsoft.AspNetCore.Http.Connections.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "golang__go__bin__go.exe": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'golang' (archivio go1.27.3.windows-amd64.zip, sha256 f26081f438319757..., digest upstream verificato; membro go/bin/go.exe). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "golang__go__bin__gofmt.exe": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'golang' (archivio go1.27.3.windows-amd64.zip, sha256 f26081f438319757..., digest upstream verificato; membro go/bin/gofmt.exe). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "golang__go__pkg__tool__windows_amd64__asm.exe": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'golang' (archivio go1.27.3.windows-amd64.zip, sha256 f26081f438319757..., digest upstream verificato; membro go/pkg/tool/windows_amd64/asm.exe). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "golang__go__pkg__tool__windows_amd64__cgo.exe": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'golang' (archivio go1.27.3.windows-amd64.zip, sha256 f26081f438319757..., digest upstream verificato; membro go/pkg/tool/windows_amd64/cgo.exe). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "golang__go__pkg__tool__windows_amd64__compile.exe": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'golang' (archivio go1.27.3.windows-amd64.zip, sha256 f26081f438319757..., digest upstream verificato; membro go/pkg/tool/windows_amd64/compile.exe). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "golang__go__pkg__tool__windows_amd64__cover.exe": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'golang' (archivio go1.27.3.windows-amd64.zip, sha256 f26081f438319757..., digest upstream verificato; membro go/pkg/tool/windows_amd64/cover.exe). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "golang__go__pkg__tool__windows_amd64__fix.exe": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'golang' (archivio go1.27.3.windows-amd64.zip, sha256 f26081f438319757..., digest upstream verificato; membro go/pkg/tool/windows_amd64/fix.exe). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "golang__go__pkg__tool__windows_amd64__link.exe": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'golang' (archivio go1.27.3.windows-amd64.zip, sha256 f26081f438319757..., digest upstream verificato; membro go/pkg/tool/windows_amd64/link.exe). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "golang__go__pkg__tool__windows_amd64__preprofile.exe": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'golang' (archivio go1.27.3.windows-amd64.zip, sha256 f26081f438319757..., digest upstream verificato; membro go/pkg/tool/windows_amd64/preprofile.exe). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "golang__go__pkg__tool__windows_amd64__vet.exe": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'golang' (archivio go1.27.3.windows-amd64.zip, sha256 f26081f438319757..., digest upstream verificato; membro go/pkg/tool/windows_amd64/vet.exe). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "nodejs__node-v26.12.0-win-x64__node.exe": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'nodejs' (archivio node-v26.12.0-win-x64.zip, sha256 50efaf01a08c520b..., digest upstream verificato; membro node-v26.12.0-win-x64/node.exe). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__api-ms-win-core-console-l1-1-0.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/api-ms-win-core-console-l1-1-0.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__api-ms-win-core-console-l1-2-0.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/api-ms-win-core-console-l1-2-0.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__api-ms-win-core-datetime-l1-1-0.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/api-ms-win-core-datetime-l1-1-0.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__api-ms-win-core-debug-l1-1-0.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/api-ms-win-core-debug-l1-1-0.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__api-ms-win-core-errorhandling-l1-1-0.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/api-ms-win-core-errorhandling-l1-1-0.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__api-ms-win-core-fibers-l1-1-0.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/api-ms-win-core-fibers-l1-1-0.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__api-ms-win-core-fibers-l1-1-1.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/api-ms-win-core-fibers-l1-1-1.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__api-ms-win-core-file-l1-1-0.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/api-ms-win-core-file-l1-1-0.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__api-ms-win-core-file-l1-2-0.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/api-ms-win-core-file-l1-2-0.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__api-ms-win-core-file-l2-1-0.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/api-ms-win-core-file-l2-1-0.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__api-ms-win-core-handle-l1-1-0.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/api-ms-win-core-handle-l1-1-0.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__api-ms-win-core-heap-l1-1-0.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/api-ms-win-core-heap-l1-1-0.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__api-ms-win-core-interlocked-l1-1-0.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/api-ms-win-core-interlocked-l1-1-0.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__api-ms-win-core-kernel32-legacy-l1-1-1.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/api-ms-win-core-kernel32-legacy-l1-1-1.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__api-ms-win-core-libraryloader-l1-1-0.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/api-ms-win-core-libraryloader-l1-1-0.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__api-ms-win-core-localization-l1-2-0.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/api-ms-win-core-localization-l1-2-0.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__api-ms-win-core-memory-l1-1-0.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/api-ms-win-core-memory-l1-1-0.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__api-ms-win-core-namedpipe-l1-1-0.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/api-ms-win-core-namedpipe-l1-1-0.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__api-ms-win-core-processenvironment-l1-1-0.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/api-ms-win-core-processenvironment-l1-1-0.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__api-ms-win-core-processthreads-l1-1-0.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/api-ms-win-core-processthreads-l1-1-0.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__api-ms-win-core-processthreads-l1-1-1.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/api-ms-win-core-processthreads-l1-1-1.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__api-ms-win-core-profile-l1-1-0.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/api-ms-win-core-profile-l1-1-0.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__api-ms-win-core-rtlsupport-l1-1-0.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/api-ms-win-core-rtlsupport-l1-1-0.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__api-ms-win-core-string-l1-1-0.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/api-ms-win-core-string-l1-1-0.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__api-ms-win-core-synch-l1-1-0.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/api-ms-win-core-synch-l1-1-0.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__api-ms-win-core-synch-l1-2-0.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/api-ms-win-core-synch-l1-2-0.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__api-ms-win-core-sysinfo-l1-1-0.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/api-ms-win-core-sysinfo-l1-1-0.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__api-ms-win-core-sysinfo-l1-2-0.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/api-ms-win-core-sysinfo-l1-2-0.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__api-ms-win-core-timezone-l1-1-0.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/api-ms-win-core-timezone-l1-1-0.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__api-ms-win-core-util-l1-1-0.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/api-ms-win-core-util-l1-1-0.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__api-ms-win-crt-conio-l1-1-0.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/api-ms-win-crt-conio-l1-1-0.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__api-ms-win-crt-convert-l1-1-0.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/api-ms-win-crt-convert-l1-1-0.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__api-ms-win-crt-environment-l1-1-0.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/api-ms-win-crt-environment-l1-1-0.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__api-ms-win-crt-filesystem-l1-1-0.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/api-ms-win-crt-filesystem-l1-1-0.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__api-ms-win-crt-heap-l1-1-0.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/api-ms-win-crt-heap-l1-1-0.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__api-ms-win-crt-locale-l1-1-0.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/api-ms-win-crt-locale-l1-1-0.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__api-ms-win-crt-math-l1-1-0.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/api-ms-win-crt-math-l1-1-0.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__api-ms-win-crt-multibyte-l1-1-0.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/api-ms-win-crt-multibyte-l1-1-0.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__api-ms-win-crt-private-l1-1-0.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/api-ms-win-crt-private-l1-1-0.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__api-ms-win-crt-process-l1-1-0.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/api-ms-win-crt-process-l1-1-0.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__api-ms-win-crt-runtime-l1-1-0.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/api-ms-win-crt-runtime-l1-1-0.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__api-ms-win-crt-stdio-l1-1-0.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/api-ms-win-crt-stdio-l1-1-0.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__api-ms-win-crt-string-l1-1-0.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/api-ms-win-crt-string-l1-1-0.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__api-ms-win-crt-time-l1-1-0.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/api-ms-win-crt-time-l1-1-0.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__api-ms-win-crt-utility-l1-1-0.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/api-ms-win-crt-utility-l1-1-0.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__attach.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/attach.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__awt.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/awt.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__dt_shmem.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/dt_shmem.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__dt_socket.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/dt_socket.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__extnet.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/extnet.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__fontmanager.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/fontmanager.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__freetype.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/freetype.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__instrument.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/instrument.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__j2gss.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/j2gss.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__j2pcsc.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/j2pcsc.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__j2pkcs11.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/j2pkcs11.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__jaas.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/jaas.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__jabswitch.exe": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/jabswitch.exe). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__jaccessinspector.exe": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/jaccessinspector.exe). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__jaccesswalker.exe": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/jaccesswalker.exe). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__jar.exe": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/jar.exe). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__jarsigner.exe": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/jarsigner.exe). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__java.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/java.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__java.exe": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/java.exe). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__javaaccessbridge.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/javaaccessbridge.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__javac.exe": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/javac.exe). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__javadoc.exe": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/javadoc.exe). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__javajpeg.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/javajpeg.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__javap.exe": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/javap.exe). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__javaw.exe": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/javaw.exe). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__jawt.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/jawt.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__jcmd.exe": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/jcmd.exe). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__jconsole.exe": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/jconsole.exe). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__jdb.exe": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/jdb.exe). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__jdeprscan.exe": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/jdeprscan.exe). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__jdeps.exe": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/jdeps.exe). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__jdwp.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/jdwp.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__jfr.exe": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/jfr.exe). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__jhsdb.exe": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/jhsdb.exe). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__jimage.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/jimage.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__jimage.exe": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/jimage.exe). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__jinfo.exe": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/jinfo.exe). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__jli.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/jli.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__jlink.exe": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/jlink.exe). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__jmap.exe": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/jmap.exe). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__jmod.exe": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/jmod.exe). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__jpackage.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/jpackage.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__jpackage.exe": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/jpackage.exe). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__jps.exe": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/jps.exe). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__jrunscript.exe": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/jrunscript.exe). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__jshell.exe": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/jshell.exe). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__jsound.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/jsound.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__jstack.exe": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/jstack.exe). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__jstat.exe": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/jstat.exe). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__jstatd.exe": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/jstatd.exe). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__jsvml.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/jsvml.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__jwebserver.exe": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/jwebserver.exe). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__keytool.exe": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/keytool.exe). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__kinit.exe": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/kinit.exe). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__klist.exe": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/klist.exe). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__ktab.exe": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/ktab.exe). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__lcms.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/lcms.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__le.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/le.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__management.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/management.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__management_agent.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/management_agent.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__management_ext.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/management_ext.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__mlib_image.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/mlib_image.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__msvcp140.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/msvcp140.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__net.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/net.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__nio.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/nio.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__prefs.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/prefs.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__rmi.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/rmi.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__rmiregistry.exe": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/rmiregistry.exe). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__saproc.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/saproc.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__serialver.exe": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/serialver.exe). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__server__jvm.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/server/jvm.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__splashscreen.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/splashscreen.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__sspi_bridge.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/sspi_bridge.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__sunmscapi.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/sunmscapi.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__syslookup.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/syslookup.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__ucrtbase.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/ucrtbase.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__vcruntime140.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/vcruntime140.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__vcruntime140_1.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/vcruntime140_1.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__verify.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/verify.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__w2k_lsa_auth.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/w2k_lsa_auth.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__windowsaccessbridge-64.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/windowsaccessbridge-64.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ },
+ "temurin__jdk-21.0.12.1+1__bin__zip.dll": {
+  "label": "clean",
+  "note": "Binario da distribuzione ufficiale non-Microsoft 'temurin' (archivio OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip, sha256 f9d6e191ab098c0d..., digest upstream verificato; membro jdk-21.0.12.1+1/bin/zip.dll). Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+  "packers": [],
+  "source": "dist-ufficiale-holdout"
+ }
+}

@@ -1,0 +1,2048 @@
+{
+  "81d243bd2c585b0f4821__mypyc.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto '_toplevel' (percorso originale: 81d243bd2c585b0f4821__mypyc.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "Cryptodome__Cipher___raw_aes.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'Cryptodome' (percorso originale: Cryptodome\\Cipher\\_raw_aes.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "Cryptodome__Cipher___raw_cast.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'Cryptodome' (percorso originale: Cryptodome\\Cipher\\_raw_cast.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "Cryptodome__Cipher___raw_des.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'Cryptodome' (percorso originale: Cryptodome\\Cipher\\_raw_des.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "Cryptodome__Cipher___raw_des3.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'Cryptodome' (percorso originale: Cryptodome\\Cipher\\_raw_des3.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "Cryptodome__Cipher___raw_eksblowfish.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'Cryptodome' (percorso originale: Cryptodome\\Cipher\\_raw_eksblowfish.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "Cryptodome__Hash___SHA224.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'Cryptodome' (percorso originale: Cryptodome\\Hash\\_SHA224.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "Cryptodome__Hash___SHA256.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'Cryptodome' (percorso originale: Cryptodome\\Hash\\_SHA256.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "Cryptodome__Hash___SHA384.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'Cryptodome' (percorso originale: Cryptodome\\Hash\\_SHA384.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "Cryptodome__Hash___SHA512.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'Cryptodome' (percorso originale: Cryptodome\\Hash\\_SHA512.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "Cryptodome__Math___modexp.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'Cryptodome' (percorso originale: Cryptodome\\Math\\_modexp.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "Cryptodome__PublicKey___curve448.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'Cryptodome' (percorso originale: Cryptodome\\PublicKey\\_curve448.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "Cryptodome__PublicKey___ec_ws.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'Cryptodome' (percorso originale: Cryptodome\\PublicKey\\_ec_ws.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "Cryptodome__PublicKey___ed25519.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'Cryptodome' (percorso originale: Cryptodome\\PublicKey\\_ed25519.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "Cryptodome__PublicKey___ed448.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'Cryptodome' (percorso originale: Cryptodome\\PublicKey\\_ed448.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "PIL___imaging.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'PIL' (percorso originale: PIL\\_imaging.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "PIL___imagingcms.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'PIL' (percorso originale: PIL\\_imagingcms.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "PIL___imagingft.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'PIL' (percorso originale: PIL\\_imagingft.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "PIL___imagingmath.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'PIL' (percorso originale: PIL\\_imagingmath.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "PIL___webp.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'PIL' (percorso originale: PIL\\_webp.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "_cffi_backend.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto '_toplevel' (percorso originale: _cffi_backend.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "_curses.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto '_toplevel' (percorso originale: _curses.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "_curses_panel.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto '_toplevel' (percorso originale: _curses_panel.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "aiohttp___http_parser.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'aiohttp' (percorso originale: aiohttp\\_http_parser.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "aiohttp___http_writer.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'aiohttp' (percorso originale: aiohttp\\_http_writer.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "aiohttp___websocket__mask.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'aiohttp' (percorso originale: aiohttp\\_websocket\\mask.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "aiohttp___websocket__reader_c.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'aiohttp' (percorso originale: aiohttp\\_websocket\\reader_c.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "die___die.cp314-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'die' (percorso originale: die\\_die.cp314-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "flirt__flirt.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'flirt' (percorso originale: flirt\\flirt.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "frozenlist___frozenlist.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'frozenlist' (percorso originale: frozenlist\\_frozenlist.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "gevent___gevent_c_abstract_linkable.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'gevent' (percorso originale: gevent\\_gevent_c_abstract_linkable.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "gevent___gevent_c_greenlet_primitives.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'gevent' (percorso originale: gevent\\_gevent_c_greenlet_primitives.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "gevent___gevent_c_hub_local.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'gevent' (percorso originale: gevent\\_gevent_c_hub_local.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "gevent___gevent_c_hub_primitives.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'gevent' (percorso originale: gevent\\_gevent_c_hub_primitives.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "gevent___gevent_c_ident.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'gevent' (percorso originale: gevent\\_gevent_c_ident.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "gevent___gevent_c_imap.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'gevent' (percorso originale: gevent\\_gevent_c_imap.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "gevent___gevent_c_semaphore.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'gevent' (percorso originale: gevent\\_gevent_c_semaphore.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "gevent___gevent_c_tracer.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'gevent' (percorso originale: gevent\\_gevent_c_tracer.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "gevent___gevent_c_waiter.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'gevent' (percorso originale: gevent\\_gevent_c_waiter.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "gevent___gevent_cevent.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'gevent' (percorso originale: gevent\\_gevent_cevent.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "gevent___gevent_cgreenlet.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'gevent' (percorso originale: gevent\\_gevent_cgreenlet.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "gevent___gevent_clocal.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'gevent' (percorso originale: gevent\\_gevent_clocal.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "gevent___gevent_cqueue.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'gevent' (percorso originale: gevent\\_gevent_cqueue.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "gevent__libev__corecext.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'gevent' (percorso originale: gevent\\libev\\corecext.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "gevent__libuv___corecffi.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'gevent' (percorso originale: gevent\\libuv\\_corecffi.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "gevent__resolver__cares.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'gevent' (percorso originale: gevent\\resolver\\cares.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "google___upb___message.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'google' (percorso originale: google\\_upb\\_message.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "greenlet___greenlet.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'greenlet' (percorso originale: greenlet\\_greenlet.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "httptools__parser__parser.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'httptools' (percorso originale: httptools\\parser\\parser.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "httptools__parser__url_parser.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'httptools' (percorso originale: httptools\\parser\\url_parser.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "lief___lief.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'lief' (percorso originale: lief\\_lief.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "msgpack___cmsgpack.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'msgpack' (percorso originale: msgpack\\_cmsgpack.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "msgspec___core.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'msgspec' (percorso originale: msgspec\\_core.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "multidict___multidict.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'multidict' (percorso originale: multidict\\_multidict.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "numpy___core___multiarray_tests.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'numpy' (percorso originale: numpy\\_core\\_multiarray_tests.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "numpy___core___multiarray_umath.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'numpy' (percorso originale: numpy\\_core\\_multiarray_umath.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "numpy___core___rational_tests.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'numpy' (percorso originale: numpy\\_core\\_rational_tests.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "numpy___core___simd.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'numpy' (percorso originale: numpy\\_core\\_simd.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "numpy___core___umath_tests.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'numpy' (percorso originale: numpy\\_core\\_umath_tests.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "numpy__fft___pocketfft_umath.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'numpy' (percorso originale: numpy\\fft\\_pocketfft_umath.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "numpy__linalg___umath_linalg.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'numpy' (percorso originale: numpy\\linalg\\_umath_linalg.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "numpy__random___bounded_integers.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'numpy' (percorso originale: numpy\\random\\_bounded_integers.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "numpy__random___common.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'numpy' (percorso originale: numpy\\random\\_common.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "numpy__random___generator.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'numpy' (percorso originale: numpy\\random\\_generator.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "numpy__random___mt19937.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'numpy' (percorso originale: numpy\\random\\_mt19937.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "numpy__random___pcg64.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'numpy' (percorso originale: numpy\\random\\_pcg64.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "numpy__random___philox.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'numpy' (percorso originale: numpy\\random\\_philox.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "numpy__random___sfc64.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'numpy' (percorso originale: numpy\\random\\_sfc64.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "numpy__random__bit_generator.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'numpy' (percorso originale: numpy\\random\\bit_generator.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "numpy__random__mtrand.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'numpy' (percorso originale: numpy\\random\\mtrand.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "pandas___libs___cyutility.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'pandas' (percorso originale: pandas\\_libs\\_cyutility.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "pandas___libs__algos.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'pandas' (percorso originale: pandas\\_libs\\algos.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "pandas___libs__arrays.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'pandas' (percorso originale: pandas\\_libs\\arrays.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "pandas___libs__byteswap.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'pandas' (percorso originale: pandas\\_libs\\byteswap.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "pandas___libs__groupby.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'pandas' (percorso originale: pandas\\_libs\\groupby.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "pandas___libs__hashing.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'pandas' (percorso originale: pandas\\_libs\\hashing.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "pandas___libs__hashtable.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'pandas' (percorso originale: pandas\\_libs\\hashtable.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "pandas___libs__index.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'pandas' (percorso originale: pandas\\_libs\\index.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "pandas___libs__indexing.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'pandas' (percorso originale: pandas\\_libs\\indexing.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "pandas___libs__internals.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'pandas' (percorso originale: pandas\\_libs\\internals.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "pandas___libs__interval.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'pandas' (percorso originale: pandas\\_libs\\interval.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "pandas___libs__join.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'pandas' (percorso originale: pandas\\_libs\\join.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "pandas___libs__json.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'pandas' (percorso originale: pandas\\_libs\\json.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "pandas___libs__lib.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'pandas' (percorso originale: pandas\\_libs\\lib.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "pandas___libs__missing.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'pandas' (percorso originale: pandas\\_libs\\missing.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "pandas___libs__ops.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'pandas' (percorso originale: pandas\\_libs\\ops.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "pandas___libs__ops_dispatch.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'pandas' (percorso originale: pandas\\_libs\\ops_dispatch.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "pandas___libs__pandas_datetime.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'pandas' (percorso originale: pandas\\_libs\\pandas_datetime.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "pandas___libs__pandas_parser.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'pandas' (percorso originale: pandas\\_libs\\pandas_parser.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "pandas___libs__parsers.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'pandas' (percorso originale: pandas\\_libs\\parsers.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "pandas___libs__properties.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'pandas' (percorso originale: pandas\\_libs\\properties.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "pandas___libs__reshape.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'pandas' (percorso originale: pandas\\_libs\\reshape.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "pandas___libs__sas.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'pandas' (percorso originale: pandas\\_libs\\sas.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "pandas___libs__sparse.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'pandas' (percorso originale: pandas\\_libs\\sparse.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "pandas___libs__testing.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'pandas' (percorso originale: pandas\\_libs\\testing.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "pandas___libs__tslib.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'pandas' (percorso originale: pandas\\_libs\\tslib.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "pandas___libs__tslibs__base.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'pandas' (percorso originale: pandas\\_libs\\tslibs\\base.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "pandas___libs__tslibs__ccalendar.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'pandas' (percorso originale: pandas\\_libs\\tslibs\\ccalendar.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "pandas___libs__tslibs__conversion.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'pandas' (percorso originale: pandas\\_libs\\tslibs\\conversion.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "pandas___libs__tslibs__dtypes.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'pandas' (percorso originale: pandas\\_libs\\tslibs\\dtypes.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "pandas___libs__tslibs__fields.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'pandas' (percorso originale: pandas\\_libs\\tslibs\\fields.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "pandas___libs__tslibs__nattype.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'pandas' (percorso originale: pandas\\_libs\\tslibs\\nattype.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "pandas___libs__tslibs__np_datetime.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'pandas' (percorso originale: pandas\\_libs\\tslibs\\np_datetime.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "pandas___libs__tslibs__offsets.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'pandas' (percorso originale: pandas\\_libs\\tslibs\\offsets.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "pandas___libs__tslibs__parsing.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'pandas' (percorso originale: pandas\\_libs\\tslibs\\parsing.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "pandas___libs__tslibs__period.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'pandas' (percorso originale: pandas\\_libs\\tslibs\\period.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "pandas___libs__tslibs__strptime.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'pandas' (percorso originale: pandas\\_libs\\tslibs\\strptime.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "pandas___libs__tslibs__timedeltas.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'pandas' (percorso originale: pandas\\_libs\\tslibs\\timedeltas.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "pandas___libs__tslibs__timestamps.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'pandas' (percorso originale: pandas\\_libs\\tslibs\\timestamps.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "pandas___libs__tslibs__timezones.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'pandas' (percorso originale: pandas\\_libs\\tslibs\\timezones.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "pandas___libs__tslibs__tzconversion.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'pandas' (percorso originale: pandas\\_libs\\tslibs\\tzconversion.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "pandas___libs__tslibs__vectorized.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'pandas' (percorso originale: pandas\\_libs\\tslibs\\vectorized.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "pandas___libs__window__aggregations.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'pandas' (percorso originale: pandas\\_libs\\window\\aggregations.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "pandas___libs__window__indexers.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'pandas' (percorso originale: pandas\\_libs\\window\\indexers.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "pandas___libs__writers.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'pandas' (percorso originale: pandas\\_libs\\writers.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "propcache___helpers_c.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'propcache' (percorso originale: propcache\\_helpers_c.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "pydantic_core___pydantic_core.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'pydantic_core' (percorso originale: pydantic_core\\_pydantic_core.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "pythonwin__dde.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'pythonwin' (percorso originale: pythonwin\\dde.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "pythonwin__win32ui.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'pythonwin' (percorso originale: pythonwin\\win32ui.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "pythonwin__win32uiole.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'pythonwin' (percorso originale: pythonwin\\win32uiole.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy___cyutility.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\_cyutility.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy___lib___ccallback_c.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\_lib\\_ccallback_c.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy___lib___test_ccallback.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\_lib\\_test_ccallback.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy___lib___test_deprecation_call.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\_lib\\_test_deprecation_call.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy___lib___test_deprecation_def.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\_lib\\_test_deprecation_def.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy___lib___uarray___uarray.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\_lib\\_uarray\\_uarray.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy___lib__messagestream.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\_lib\\messagestream.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__cluster___hierarchy.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\cluster\\_hierarchy.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__cluster___optimal_leaf_ordering.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\cluster\\_optimal_leaf_ordering.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__cluster___vq.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\cluster\\_vq.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__fft___pocketfft__pypocketfft.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\fft\\_pocketfft\\pypocketfft.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__fftpack__convolve.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\fftpack\\convolve.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__integrate___dop.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\integrate\\_dop.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__integrate___odepack.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\integrate\\_odepack.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__integrate___quadpack.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\integrate\\_quadpack.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__integrate___vode.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\integrate\\_vode.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__interpolate___dfitpack.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\interpolate\\_dfitpack.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__interpolate___dierckx.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\interpolate\\_dierckx.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__interpolate___fitpack.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\interpolate\\_fitpack.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__interpolate___interpnd.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\interpolate\\_interpnd.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__interpolate___ppoly.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\interpolate\\_ppoly.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__interpolate___rbfinterp_pythran.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\interpolate\\_rbfinterp_pythran.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__interpolate___rgi_cython.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\interpolate\\_rgi_cython.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__io___fast_matrix_market___fmm_core.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\io\\_fast_matrix_market\\_fmm_core.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__io__matlab___mio5_utils.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\io\\matlab\\_mio5_utils.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__io__matlab___mio_utils.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\io\\matlab\\_mio_utils.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__io__matlab___streams.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\io\\matlab\\_streams.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__linalg___batched_linalg.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\linalg\\_batched_linalg.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__linalg___cythonized_array_utils.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\linalg\\_cythonized_array_utils.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__linalg___decomp_interpolative.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\linalg\\_decomp_interpolative.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__linalg___decomp_lu_cython.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\linalg\\_decomp_lu_cython.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__linalg___decomp_update.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\linalg\\_decomp_update.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__linalg___fblas.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\linalg\\_fblas.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__linalg___flapack.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\linalg\\_flapack.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__linalg___linalg_pythran.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\linalg\\_linalg_pythran.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__linalg___matfuncs_expm.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\linalg\\_matfuncs_expm.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__linalg___matfuncs_schur_sqrtm.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\linalg\\_matfuncs_schur_sqrtm.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__linalg___matfuncs_sqrtm_triu.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\linalg\\_matfuncs_sqrtm_triu.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__linalg___solve_toeplitz.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\linalg\\_solve_toeplitz.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__linalg__cython_blas.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\linalg\\cython_blas.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__linalg__cython_lapack.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\linalg\\cython_lapack.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__ndimage___cytest.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\ndimage\\_cytest.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__ndimage___nd_image.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\ndimage\\_nd_image.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__ndimage___ni_label.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\ndimage\\_ni_label.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__ndimage___rank_filter_1d.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\ndimage\\_rank_filter_1d.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__odr____odrpack.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\odr\\__odrpack.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__optimize___bglu_dense.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\optimize\\_bglu_dense.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__optimize___direct.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\optimize\\_direct.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__optimize___group_columns.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\optimize\\_group_columns.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__optimize___highspy___core.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\optimize\\_highspy\\_core.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__optimize___highspy___highs_options.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\optimize\\_highspy\\_highs_options.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__optimize___lbfgsb.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\optimize\\_lbfgsb.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__optimize___lsap.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\optimize\\_lsap.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__optimize___lsq__givens_elimination.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\optimize\\_lsq\\givens_elimination.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__optimize___minpack.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\optimize\\_minpack.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__optimize___moduleTNC.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\optimize\\_moduleTNC.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__optimize___pava_pybind.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\optimize\\_pava_pybind.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__optimize___slsqplib.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\optimize\\_slsqplib.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__optimize___trlib___trlib.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\optimize\\_trlib\\_trlib.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__optimize___zeros.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\optimize\\_zeros.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__optimize__cython_optimize___zeros.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\optimize\\cython_optimize\\_zeros.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__signal___max_len_seq_inner.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\signal\\_max_len_seq_inner.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__signal___peak_finding_utils.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\signal\\_peak_finding_utils.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__signal___sigtools.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\signal\\_sigtools.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__signal___sosfilt.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\signal\\_sosfilt.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__signal___spline.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\signal\\_spline.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__signal___upfirdn_apply.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\signal\\_upfirdn_apply.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__sparse___csparsetools.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\sparse\\_csparsetools.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__sparse___sparsetools.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\sparse\\_sparsetools.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__sparse__csgraph___flow.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\sparse\\csgraph\\_flow.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__sparse__csgraph___matching.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\sparse\\csgraph\\_matching.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__sparse__csgraph___min_spanning_tree.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\sparse\\csgraph\\_min_spanning_tree.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__sparse__csgraph___reordering.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\sparse\\csgraph\\_reordering.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__sparse__csgraph___shortest_path.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\sparse\\csgraph\\_shortest_path.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__sparse__csgraph___tools.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\sparse\\csgraph\\_tools.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__sparse__csgraph___traversal.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\sparse\\csgraph\\_traversal.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__sparse__linalg___dsolve___superlu.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\sparse\\linalg\\_dsolve\\_superlu.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__sparse__linalg___eigen__arpack___arpacklib.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\sparse\\linalg\\_eigen\\arpack\\_arpacklib.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__sparse__linalg___propack.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\sparse\\linalg\\_propack.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__spatial___ckdtree.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\spatial\\_ckdtree.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__spatial___distance_pybind.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\spatial\\_distance_pybind.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__spatial___distance_wrap.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\spatial\\_distance_wrap.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__spatial___hausdorff.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\spatial\\_hausdorff.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__spatial___qhull.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\spatial\\_qhull.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__spatial___voronoi.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\spatial\\_voronoi.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__spatial__transform___rigid_transform_cy.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\spatial\\transform\\_rigid_transform_cy.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__spatial__transform___rotation_cy.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\spatial\\transform\\_rotation_cy.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__special___comb.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\special\\_comb.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__special___ellip_harm_2.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\special\\_ellip_harm_2.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__special___gufuncs.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\special\\_gufuncs.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__special___specfun.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\special\\_specfun.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__special___special_ufuncs.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\special\\_special_ufuncs.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__special___test_internal.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\special\\_test_internal.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__special___ufuncs.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\special\\_ufuncs.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__special___ufuncs_cxx.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\special\\_ufuncs_cxx.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__special__cython_special.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\special\\cython_special.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__stats___ansari_swilk_statistics.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\stats\\_ansari_swilk_statistics.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__stats___biasedurn.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\stats\\_biasedurn.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__stats___levy_stable__levyst.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\stats\\_levy_stable\\levyst.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__stats___qmc_cy.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\stats\\_qmc_cy.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__stats___qmvnt_cy.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\stats\\_qmvnt_cy.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__stats___rcont__rcont.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\stats\\_rcont\\rcont.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__stats___sobol.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\stats\\_sobol.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__stats___stats.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\stats\\_stats.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__stats___stats_pythran.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\stats\\_stats_pythran.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "scipy__stats___unuran__unuran_wrapper.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'scipy' (percorso originale: scipy\\stats\\_unuran\\unuran_wrapper.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn____check_build___check_build.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\__check_build\\_check_build.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn___cyutility.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\_cyutility.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn___isotonic.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\_isotonic.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn___loss___loss.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\_loss\\_loss.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__cluster___dbscan_inner.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\cluster\\_dbscan_inner.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__cluster___hdbscan___linkage.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\cluster\\_hdbscan\\_linkage.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__cluster___hdbscan___reachability.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\cluster\\_hdbscan\\_reachability.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__cluster___hdbscan___tree.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\cluster\\_hdbscan\\_tree.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__cluster___hierarchical_fast.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\cluster\\_hierarchical_fast.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__cluster___k_means_common.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\cluster\\_k_means_common.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__cluster___k_means_elkan.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\cluster\\_k_means_elkan.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__cluster___k_means_lloyd.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\cluster\\_k_means_lloyd.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__cluster___k_means_minibatch.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\cluster\\_k_means_minibatch.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__datasets___svmlight_format_fast.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\datasets\\_svmlight_format_fast.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__decomposition___cdnmf_fast.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\decomposition\\_cdnmf_fast.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__decomposition___online_lda_fast.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\decomposition\\_online_lda_fast.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__ensemble___gradient_boosting.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\ensemble\\_gradient_boosting.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__ensemble___hist_gradient_boosting___binning.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\ensemble\\_hist_gradient_boosting\\_binning.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__ensemble___hist_gradient_boosting___bitset.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\ensemble\\_hist_gradient_boosting\\_bitset.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__ensemble___hist_gradient_boosting___gradient_boosting.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\ensemble\\_hist_gradient_boosting\\_gradient_boosting.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__ensemble___hist_gradient_boosting___predictor.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\ensemble\\_hist_gradient_boosting\\_predictor.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__ensemble___hist_gradient_boosting__common.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\ensemble\\_hist_gradient_boosting\\common.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__ensemble___hist_gradient_boosting__histogram.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\ensemble\\_hist_gradient_boosting\\histogram.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__ensemble___hist_gradient_boosting__splitting.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\ensemble\\_hist_gradient_boosting\\splitting.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__feature_extraction___hashing_fast.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\feature_extraction\\_hashing_fast.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__linear_model___cd_fast.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\linear_model\\_cd_fast.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__linear_model___sag_fast.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\linear_model\\_sag_fast.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__linear_model___sgd_fast.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\linear_model\\_sgd_fast.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__manifold___barnes_hut_tsne.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\manifold\\_barnes_hut_tsne.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__manifold___utils.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\manifold\\_utils.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__metrics___dist_metrics.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\metrics\\_dist_metrics.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__metrics___pairwise_distances_reduction___argkmin.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\metrics\\_pairwise_distances_reduction\\_argkmin.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__metrics___pairwise_distances_reduction___argkmin_classmode.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\metrics\\_pairwise_distances_reduction\\_argkmin_classmode.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__metrics___pairwise_distances_reduction___base.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\metrics\\_pairwise_distances_reduction\\_base.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__metrics___pairwise_distances_reduction___datasets_pair.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\metrics\\_pairwise_distances_reduction\\_datasets_pair.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__metrics___pairwise_distances_reduction___middle_term_computer.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\metrics\\_pairwise_distances_reduction\\_middle_term_computer.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__metrics___pairwise_distances_reduction___radius_neighbors.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\metrics\\_pairwise_distances_reduction\\_radius_neighbors.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__metrics___pairwise_distances_reduction___radius_neighbors_classmode.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\metrics\\_pairwise_distances_reduction\\_radius_neighbors_classmode.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__metrics___pairwise_fast.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\metrics\\_pairwise_fast.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__metrics__cluster___expected_mutual_info_fast.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\metrics\\cluster\\_expected_mutual_info_fast.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__neighbors___ball_tree.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\neighbors\\_ball_tree.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__neighbors___kd_tree.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\neighbors\\_kd_tree.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__neighbors___partition_nodes.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\neighbors\\_partition_nodes.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__neighbors___quad_tree.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\neighbors\\_quad_tree.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__preprocessing___csr_polynomial_expansion.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\preprocessing\\_csr_polynomial_expansion.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__preprocessing___target_encoder_fast.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\preprocessing\\_target_encoder_fast.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__svm___liblinear.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\svm\\_liblinear.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__svm___libsvm.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\svm\\_libsvm.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__svm___libsvm_sparse.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\svm\\_libsvm_sparse.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__svm___newrand.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\svm\\_newrand.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__tree___criterion.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\tree\\_criterion.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__tree___partitioner.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\tree\\_partitioner.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__tree___splitter.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\tree\\_splitter.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__tree___tree.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\tree\\_tree.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__tree___utils.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\tree\\_utils.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__utils___cython_blas.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\utils\\_cython_blas.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__utils___fast_dict.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\utils\\_fast_dict.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__utils___isfinite.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\utils\\_isfinite.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__utils___openmp_helpers.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\utils\\_openmp_helpers.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__utils___random.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\utils\\_random.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__utils___seq_dataset.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\utils\\_seq_dataset.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__utils___typedefs.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\utils\\_typedefs.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__utils___vector_sentinel.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\utils\\_vector_sentinel.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__utils___weight_vector.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\utils\\_weight_vector.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__utils__arrayfuncs.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\utils\\arrayfuncs.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__utils__murmurhash.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\utils\\murmurhash.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "sklearn__utils__sparsefuncs_fast.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'sklearn' (percorso originale: sklearn\\utils\\sparsefuncs_fast.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "watchfiles___rust_notify.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'watchfiles' (percorso originale: watchfiles\\_rust_notify.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "win32___winxptheme.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'win32' (percorso originale: win32\\_winxptheme.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "win32__mmapfile.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'win32' (percorso originale: win32\\mmapfile.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "win32__odbc.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'win32' (percorso originale: win32\\odbc.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "win32__perfmon.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'win32' (percorso originale: win32\\perfmon.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "win32__servicemanager.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'win32' (percorso originale: win32\\servicemanager.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "win32__win32api.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'win32' (percorso originale: win32\\win32api.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "win32__win32clipboard.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'win32' (percorso originale: win32\\win32clipboard.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "win32__win32console.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'win32' (percorso originale: win32\\win32console.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "win32__win32cred.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'win32' (percorso originale: win32\\win32cred.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "win32__win32crypt.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'win32' (percorso originale: win32\\win32crypt.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "win32__win32event.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'win32' (percorso originale: win32\\win32event.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "win32__win32evtlog.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'win32' (percorso originale: win32\\win32evtlog.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "win32__win32file.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'win32' (percorso originale: win32\\win32file.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "win32__win32gui.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'win32' (percorso originale: win32\\win32gui.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "win32__win32help.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'win32' (percorso originale: win32\\win32help.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "win32__win32inet.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'win32' (percorso originale: win32\\win32inet.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "win32__win32job.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'win32' (percorso originale: win32\\win32job.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "win32__win32net.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'win32' (percorso originale: win32\\win32net.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "win32__win32pdh.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'win32' (percorso originale: win32\\win32pdh.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "win32__win32pipe.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'win32' (percorso originale: win32\\win32pipe.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "win32__win32print.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'win32' (percorso originale: win32\\win32print.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "win32__win32process.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'win32' (percorso originale: win32\\win32process.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "win32__win32profile.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'win32' (percorso originale: win32\\win32profile.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "win32__win32ras.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'win32' (percorso originale: win32\\win32ras.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "win32__win32security.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'win32' (percorso originale: win32\\win32security.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "win32__win32service.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'win32' (percorso originale: win32\\win32service.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "win32__win32trace.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'win32' (percorso originale: win32\\win32trace.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "win32__win32ts.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'win32' (percorso originale: win32\\win32ts.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "win32__win32wnet.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'win32' (percorso originale: win32\\win32wnet.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "win32comext__adsi__adsi.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'win32comext' (percorso originale: win32comext\\adsi\\adsi.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "win32comext__authorization__authorization.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'win32comext' (percorso originale: win32comext\\authorization\\authorization.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "win32comext__axcontrol__axcontrol.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'win32comext' (percorso originale: win32comext\\axcontrol\\axcontrol.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "win32comext__axdebug__axdebug.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'win32comext' (percorso originale: win32comext\\axdebug\\axdebug.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "win32comext__axscript__axscript.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'win32comext' (percorso originale: win32comext\\axscript\\axscript.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "win32comext__bits__bits.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'win32comext' (percorso originale: win32comext\\bits\\bits.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "win32comext__directsound__directsound.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'win32comext' (percorso originale: win32comext\\directsound\\directsound.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "win32comext__ifilter__ifilter.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'win32comext' (percorso originale: win32comext\\ifilter\\ifilter.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "win32comext__internet__internet.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'win32comext' (percorso originale: win32comext\\internet\\internet.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "win32comext__mapi__exchange.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'win32comext' (percorso originale: win32comext\\mapi\\exchange.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "win32comext__mapi__mapi.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'win32comext' (percorso originale: win32comext\\mapi\\mapi.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "win32comext__propsys__propsys.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'win32comext' (percorso originale: win32comext\\propsys\\propsys.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "win32comext__shell__shell.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'win32comext' (percorso originale: win32comext\\shell\\shell.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "win32comext__taskscheduler__taskscheduler.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'win32comext' (percorso originale: win32comext\\taskscheduler\\taskscheduler.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "yaml___yaml.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'yaml' (percorso originale: yaml\\_yaml.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "yara.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto '_toplevel' (percorso originale: yara.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "yarl___quoting_c.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'yarl' (percorso originale: yarl\\_quoting_c.cp313-win_amd64.pyd), meta' 'calib'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  },
+  "zope__interface___zope_interface_coptimizations.cp313-win_amd64.pyd": {
+    "label": "clean",
+    "note": "Estensione nativa Python del pacchetto 'zope' (percorso originale: zope\\interface\\_zope_interface_coptimizations.cp313-win_amd64.pyd), meta' 'test'. Wheel ufficiale da PyPI, installata via pip dal requirements.txt del progetto. Oracolo di PROVENIENZA, non verifica strutturale: da dichiarare come tale.",
+    "packers": [],
+    "source": "wheel-pypi"
+  }
+}

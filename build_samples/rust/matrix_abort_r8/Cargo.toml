@@ -1,0 +1,10 @@
+[package]
+name = "matrix_abort_r8"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+# Rust build variant: panic = "abort" (cargo build --release)
+[profile.release]
+panic = "abort"

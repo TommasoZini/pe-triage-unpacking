@@ -1,0 +1,273 @@
+{
+  "csv": "C:\\Users\\zinit\\Desktop\\Tirocinio_Malware\\Unpacking\\Packing\\Pipeline_Reports\\report_analisi_lief.csv",
+  "manifest": "C:\\Users\\zinit\\Desktop\\Tirocinio_Malware\\Unpacking\\Packing\\Pipeline_Reports\\ground_truth.json",
+  "n_rows": 8063,
+  "unresolved": 0,
+  "matched": 3923,
+  "cm": {
+    "tp": 378,
+    "fp": 0,
+    "tn": 3435,
+    "fn": 0,
+    "unlabeled": 110,
+    "unmatched": 4140,
+    "errors": {
+      "fp": [],
+      "fn": []
+    }
+  },
+  "metrics": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "accuracy": 1.0,
+    "support": 3813
+  },
+  "signals": [
+    {
+      "signal": "die",
+      "kind": "forte",
+      "packed_pct": 92.32804232804233,
+      "clean_pct": 0.0,
+      "packed_n": 349,
+      "clean_n": 0,
+      "lift": 92.32804232804233
+    },
+    {
+      "signal": "die euristica",
+      "kind": "debole",
+      "packed_pct": 98.67724867724868,
+      "clean_pct": 17.117903930131003,
+      "packed_n": 373,
+      "clean_n": 588,
+      "lift": 81.55934474711768
+    },
+    {
+      "signal": "nomi sezione non standard",
+      "kind": "debole",
+      "packed_pct": 82.01058201058201,
+      "clean_pct": 3.988355167394469,
+      "packed_n": 310,
+      "clean_n": 137,
+      "lift": 78.02222684318754
+    },
+    {
+      "signal": "entry point in sezione non standard",
+      "kind": "debole",
+      "packed_pct": 69.04761904761905,
+      "clean_pct": 0.0,
+      "packed_n": 261,
+      "clean_n": 0,
+      "lift": 69.04761904761905
+    },
+    {
+      "signal": "sezione tipica di packer",
+      "kind": "forte",
+      "packed_pct": 67.46031746031746,
+      "clean_pct": 0.0,
+      "packed_n": 255,
+      "clean_n": 0,
+      "lift": 67.46031746031746
+    },
+    {
+      "signal": "entropia sezione >= 7.2",
+      "kind": "debole",
+      "packed_pct": 55.55555555555556,
+      "clean_pct": 0.7860262008733624,
+      "packed_n": 210,
+      "clean_n": 27,
+      "lift": 54.76952935468219
+    },
+    {
+      "signal": "sezioni con dimensione anomala",
+      "kind": "debole",
+      "packed_pct": 54.232804232804234,
+      "clean_pct": 0.02911208151382824,
+      "packed_n": 205,
+      "clean_n": 1,
+      "lift": 54.203692151290404
+    },
+    {
+      "signal": "numero import basso",
+      "kind": "debole",
+      "packed_pct": 50.0,
+      "clean_pct": 2.2125181950509463,
+      "packed_n": 189,
+      "clean_n": 76,
+      "lift": 47.78748180494905
+    },
+    {
+      "signal": "stub strutturale",
+      "kind": "forte",
+      "packed_pct": 40.74074074074074,
+      "clean_pct": 0.0,
+      "packed_n": 154,
+      "clean_n": 0,
+      "lift": 40.74074074074074
+    },
+    {
+      "signal": "overlay grande ad alta entropia",
+      "kind": "debole",
+      "packed_pct": 26.984126984126984,
+      "clean_pct": 0.0,
+      "packed_n": 102,
+      "clean_n": 0,
+      "lift": 26.984126984126984
+    },
+    {
+      "signal": "iat minimale sospetta",
+      "kind": "forte",
+      "packed_pct": 16.93121693121693,
+      "clean_pct": 0.0,
+      "packed_n": 64,
+      "clean_n": 0,
+      "lift": 16.93121693121693
+    },
+    {
+      "signal": "yara packer specifico",
+      "kind": "forte",
+      "packed_pct": 14.55026455026455,
+      "clean_pct": 0.0,
+      "packed_n": 55,
+      "clean_n": 0,
+      "lift": 14.55026455026455
+    },
+    {
+      "signal": "entry point in sezione scrivibile+eseguibile",
+      "kind": "debole",
+      "packed_pct": 13.756613756613756,
+      "clean_pct": 0.0,
+      "packed_n": 52,
+      "clean_n": 0,
+      "lift": 13.756613756613756
+    },
+    {
+      "signal": "entry point in sezione ad alta entropia",
+      "kind": "debole",
+      "packed_pct": 1.3227513227513228,
+      "clean_pct": 0.08733624454148471,
+      "packed_n": 5,
+      "clean_n": 3,
+      "lift": 1.235415078209838
+    },
+    {
+      "signal": "entry point fuori da ogni sezione",
+      "kind": "debole",
+      "packed_pct": 0.5291005291005291,
+      "clean_pct": 0.0,
+      "packed_n": 2,
+      "clean_n": 0,
+      "lift": 0.5291005291005291
+    },
+    {
+      "signal": "sezioni stripped",
+      "kind": "debole",
+      "packed_pct": 0.5291005291005291,
+      "clean_pct": 0.0,
+      "packed_n": 2,
+      "clean_n": 0,
+      "lift": 0.5291005291005291
+    },
+    {
+      "signal": "header non parsabile da lief",
+      "kind": "debole",
+      "packed_pct": 0.26455026455026454,
+      "clean_pct": 0.0,
+      "packed_n": 1,
+      "clean_n": 0,
+      "lift": 0.26455026455026454
+    },
+    {
+      "signal": "yara generico/anti-analysis",
+      "kind": "info",
+      "packed_pct": 1.3227513227513228,
+      "clean_pct": 35.22561863173217,
+      "packed_n": 5,
+      "clean_n": 1210,
+      "lift": -33.902867308980845
+    }
+  ],
+  "totals": {
+    "packed": 378,
+    "clean": 3435
+  },
+  "sweep": [
+    {
+      "weak_required": 1,
+      "tp": 378,
+      "fp": 668,
+      "tn": 2767,
+      "fn": 0,
+      "precision": 0.361376673040153,
+      "recall": 1.0,
+      "f1": 0.5308988764044944,
+      "accuracy": 0.8248098610018358,
+      "support": 3813
+    },
+    {
+      "weak_required": 2,
+      "tp": 378,
+      "fp": 164,
+      "tn": 3271,
+      "fn": 0,
+      "precision": 0.6974169741697417,
+      "recall": 1.0,
+      "f1": 0.8217391304347825,
+      "accuracy": 0.956989247311828,
+      "support": 3813
+    },
+    {
+      "weak_required": 3,
+      "tp": 378,
+      "fp": 0,
+      "tn": 3435,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "accuracy": 1.0,
+      "support": 3813
+    },
+    {
+      "weak_required": 4,
+      "tp": 374,
+      "fp": 0,
+      "tn": 3435,
+      "fn": 4,
+      "precision": 1.0,
+      "recall": 0.9894179894179894,
+      "f1": 0.9946808510638299,
+      "accuracy": 0.998950957251508,
+      "support": 3813
+    },
+    {
+      "weak_required": 5,
+      "tp": 373,
+      "fp": 0,
+      "tn": 3435,
+      "fn": 5,
+      "precision": 1.0,
+      "recall": 0.9867724867724867,
+      "f1": 0.9933422103861518,
+      "accuracy": 0.998688696564385,
+      "support": 3813
+    },
+    {
+      "weak_required": 6,
+      "tp": 373,
+      "fp": 0,
+      "tn": 3435,
+      "fn": 5,
+      "precision": 1.0,
+      "recall": 0.9867724867724867,
+      "f1": 0.9933422103861518,
+      "accuracy": 0.998688696564385,
+      "support": 3813
+    }
+  ],
+  "current_weak_required": 3,
+  "determinism": {
+    "exposed": 0,
+    "detail": {}
+  }
+}

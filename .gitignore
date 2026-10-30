@@ -1,0 +1,43 @@
+# Nessun binario, per costruzione. La regola vale anche per i campioni
+# sintetici delle fixture: si rigenerano con scripts/tests/make_fixtures.py.
+*.exe
+*.dll
+*.pyd
+*.sys
+*.bin
+*.obj
+*.lib
+
+# Nessun archivio: i campioni di MalwareBazaar arrivano in zip protetti.
+*.zip
+*.7z
+*.rar
+*.gz
+*.tar
+*.zst
+*.cab
+
+# I log contengono percorsi assoluti e nomi di campioni. I referti
+# strutturati in reports/ dicono le stesse cose senza quei percorsi.
+*.log
+*.bak
+*.bak_*
+
+# Dati, mai nel repository.
+UNPACKED_SAMPLES/
+GHIDRA_PROJECTS/
+matrice_packed/
+wild_malwarebazaar/
+holdout_clean*/
+malware_samples_split/
+dataset-packed-pe*/
+pma_book/
+out/
+scripts/tests/fixtures/
+
+# Ambiente.
+__pycache__/
+*.pyc
+.venv/
+venv/
+target/

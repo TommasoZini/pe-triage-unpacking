@@ -1,0 +1,180 @@
+sha256,filename,dataset,method,esito,ep_non_a_zeri,entropia_sotto_soglia,ghidra_funzioni,fase1_non_piu_packed,nonzero_ep,entropia_max,ghidra_funzioni_n,is_packed_dopo,nota
+831e7de732dd7c6edf52afc51e8e13db0ceed51b7a31102ce17b7fcc4b0d0445,v1_0003.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+9fcaddcc38e8672e17d355e96daa869e4fb79485bb4c927ca2d46dabff807d78,v1_0004.exe,v1_misto,unipacker,non_plausibile,True,True,True,False,0.6924,5.81,494,1,
+b3a4d6a0257e2557afa8af4f0b0d2a4ce7526b9a61260d0a3651b41e98cbbe21,v1_0005.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+66cde97377703e582a000cda0c11beece11edfb4f6f26d865217858faae6bf24,v1_0007.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+1c01179bc0b218eedef045319040a324c363d91aa2820b040582599d2f25b79a,v1_0008.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+b1d41eaf5fe78df57a22dd3b10575da0ba347c860987eb30e5f6fd36c0f34154,v1_0009.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+78460b5dfbf6ceda37cebb74a80f3444bdd61809695c695565cccf6cd629055f,v1_0010.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+ca0a1c997dc4259cb0f6dd4b88d08dc1a9b142abc81d6c7c2ab081a97420f1be,v1_0011.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+8fe079d9636c385450f141448612257ad5be58e44cfca9506bbbb5bc4f7d1891,v1_0012.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+4838bd59b1d771c814216d7b7032634251f02ff4ffcc5105d1feca44e78ca676,v1_0013.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+27ef35c6ac958ca4bba9f4629a69d6a39acd4bdc3ef3de2aeedd00339294a65a,v1_0014.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+d46e6a9f6724fe466855065b6dbd21011f7fef99900b3095b87585605baa8234,v1_0015.exe,v1_misto,unipacker,non_plausibile,True,True,True,False,0.5778,5.39,522,1,
+3059aa6041782147aebf95972723d367bcceef9ea0db4ccd14c39134c1084af8,v1_0019.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+4f60f4d3f9c22c1146a30404aff317847a2922746c197c30818ce1c51e4c2a8c,v1_0020.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+b355abc1877256925a57bb3a96bd9aa4d708a154a6ad3669a2ff48032a78fbde,v1_0021.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+8fbe1f0f494dc443b85d02fe44a57b4ba6be9d790451eb14876fd66d20db3392,v1_0022.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+58c1222753705994e12f75b5ad0a81837761e6373170a549436ff30a2bdd6800,v1_0025.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+589437b2ad0e8924cd5c464ed72129f7a1c342b2936c2535c1666a3bf95532eb,v1_0026.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+2ed6db55283a08d91d81cbfe16bf8f0acd1aab20feb3f748d44ee860efc44ff8,v1_0027.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+e494add7ffd6246fae2b7ba514674f7c7a7ffc97c1f9aa8bf8e003f68a6742f3,v1_0030.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+06866ee34bc84f263b363f08d3d222c3d7a0a5c9f78618ab2c3124a03e332f1d,v1_0034.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+4cfc5018d33786a989c8e96f30f2ec2f851521dff7556cfb6baf15883d361f72,v1_0036.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+24fb2c749729c59f859124a648a930775e69a7cfa8424ee01c749b06e84c2b96,v1_0037.exe,v1_misto,sevenzip,plausibile,True,True,True,True,0.8657,6.99,4131,0,
+a0699e5e14e3576d8b2ab8dfdd694e24c0f0196d199e57ff94afb1432a8a9204,v1_0038.exe,v1_misto,unipacker,non_plausibile,True,True,True,False,0.7501,6.21,575,1,
+9a0955248cd6ff705a9cba4b13c149357980433f6b0856698ab714d27c924480,v1_0040.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+b69310687b65d0ed381efc5e5b45ece15e0fab3109d09f5fd6d980424bbe6420,v1_0041.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+d6d5a96d2eee5d9a8c5da587e2f45f3206dc7f489e5a329131340285f409280e,v1_0045.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+c963c58db3fa17ed689e9f0d4dddfe735c35ada06f378216b49eea751c90605c,v1_0046.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+a69f50f098e4092f4e0863ac96cf2602f32f1da85a9f920673ede28c4148db3f,v1_0047.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+d34f3771a9c9fe63299abc46128c364334449a1b3571c800804d0f6c6846e4de,v1_0048.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+0455a0b00fd50a5af840679b9cce12c1c03f26cf382e3778751d99084c2bbb1f,v1_0049.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+efed7ce985aa18f6fedb24c05ac21399252b9e7f0d19929e153829d34900236d,v1_0050.exe,v1_misto,unipacker,non_plausibile,True,True,True,False,0.6536,5.59,629,1,
+eabcf6b431cd5a66aa6621a51ff2d14570ffcb4b354074cfa75bbe25fbbf3a95,v1_0051.exe,v1_misto,unipacker,non_plausibile,True,True,True,False,0.803,6.25,343,1,
+bce035a4f18f80639a887b9f865b14e6ee5acb6312172a79b077858b61b39a5c,v1_0052.exe,v1_misto,unipacker,non_plausibile,True,True,True,False,0.8547,6.46,567,1,
+04feb8384ae3685efebad1b8b5bf700100dd74a9e4775019319f8c8eb9b6c832,v1_0053.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+d7e1f9bf28890633bf9cbfae23d6c244b2b461558351cd662448930a98794655,v1_0054.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+bf951216dc34b27e6f7b153499501674d3fc9e42a18bcc0f110e3e4f36758304,v1_0055.exe,v1_misto,unipacker,non_plausibile,True,True,True,False,0.8613,6.49,625,1,
+c81b38c399f1b08473413de4f647e3493eae0d595cdca5e6a31c3aefe3a90b70,v1_0056.exe,v1_misto,upx,plausibile,True,True,True,True,0.8625,6.34,698,0,
+6e3831e91d73b98ef9459b3ae10c912550627ca36e9a5cdc60dee54651659a78,v1_0059.exe,v1_misto,unipacker,non_plausibile,True,True,True,False,0.5646,5.62,487,1,
+8b8b11d2973be8b048324da90e203f496ba8dbf460812ba19a0b0efefa477df7,v1_0060.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+114084115a2cd7c802314edf0d9a0890f14d79417bb68dc5b74e7b97a2124947,v1_0061.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+e3352efda82d041ed4563171b4700a713a56e6d1842ff6e280a36be961f76fca,v1_0062.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+fbacf8a65ac377382d0211f036a886eabbc9c3608bec74530d0a8b36924a2723,v1_0066.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+f0df2122c83b485a91f86258d0cdc1cdd25d63a73e947a775e7ffd69f4f472b1,v1_0067.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+947ada10bc7eb7a795f593626dd6404a649ecb84e0f347b50456951336b24982,v1_0069.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+b12acd5a0b2a1933c4ab70a7dcc62d865f71b293937e1f23894b07eb0dea2b6b,v1_0070.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+330fc80787710458fae325e9a10177f5b6415130a9e53466e6f08e95ca0becfa,v1_0071.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+37124c7cd009cc1f17255b75a9f89ad8dd697310de1bb3ee4dbe010854ed8cce,v1_0072.exe,v1_misto,unipacker,non_plausibile,True,True,True,False,0.5745,4.99,632,1,
+6da9b74a3d5917f382974378b20d21eb583a3daa98bf1d753090986eda29dd11,v1_0073.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+50f396190228d43dcc8c2da1f497a7a32f7c46fba853a91a40853310d52bd4e3,v1_0074.exe,v1_misto,unipacker,non_plausibile,True,True,True,False,0.6288,5.36,480,1,
+fe6ff920a0ec9a17a50f197e37a36bb714c02e5ff18056cca676aeb16c7af488,v1_0075.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+8e0a6bf735f81e9e9abbb0a54c0839e00b25faa45025b34882de53be97b4ba36,v1_0076.exe,v1_misto,unipacker,non_plausibile,True,True,True,False,0.8768,6.55,583,1,
+6947e2b117624d70cc1e2e28c97a77098f6e80a9d9bfa5c94a29ea6b70c31543,v1_0078.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+6eee966684803c4ae3e767e3e70ac8e1e685ecb6dd92a46ba92edd283347672f,v1_0080.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+6620ea236aa4c5095a86d31bfa3ff6b13988be59c5453f868c81a70acc393135,v1_0083.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+6ad6057c79eff03a1b9569db3792a443094e418457c806389cfb050ee0a42850,v1_0084.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+a39fcd7293489b51d6a7036145f44adc6cbfe89f1f5941bb2a55fca106ec2adb,v1_0085.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+c653127328bf2f78e6d5ac2f94430564a4bef1d4fe030b5181929d9e1cd34f12,v1_0086.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+6e38e788f780b6e40c071979b6a8f6aca907cb5193ff10ad2136e18688896b3e,v1_0087.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+96914ac128cc4532e702d8b133d1bb82351c41e3fcd3be8fe021dfbc6e8d701b,v1_0088.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+1c7d9b478600fc87e5141c1133e2c2ce4e3c1a531b3f3b57d19766c9bbab669d,v1_0089.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+ddcd851b7ceaa46d05a76c7e35106824d225509871f9ebde35de249b68ddbe5f,v1_0090.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+e28f04f29371947e1201e315b75da1c10bd1dc6fbd53549c0fc14898dcbb28ad,v1_0091.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+e12407dfb850df9e6c62dda4b72645a720c6f94cf11a7ca13cae8f36408f7e06,v1_0092.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+3c74db004f37e3f2530cfbb8901bbed565d05af259e41d5298e22fe1863ef83f,v1_0094.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+8b48c8ebd1449593d0f48b345270e253c4a86444fdbb7105ebeb4e94a193ccb8,v1_0096.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+19a6fb9c12614bfe5969c8851fff0322cad71acc0d036d2c7bdf7b54ca76f8ea,v1_0099.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+84c0d559c40df36d2541e7b5a7777911f191647c80fa353a20e594b72015b672,v1_0100.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+2ea59460fe34892fd1b9f3bf5b3a3d66aeabbc9eb63a19e798011a79e7887a2c,v1_0102.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+73dc8e9a7b5c380757b3b928d02279442cc8091fd78579c0b027a9a47f3b2ca7,v1_0103.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+c133c4e0e7371e8bfa9c43368e463f5e02420806c3736751dcf4b7d0d0a5714d,v1_0105.exe,v1_misto,unipacker,non_plausibile,True,False,True,False,0.6521,7.91,452,1,
+5b7488a9ed44b78eca67289076dd7fd72f854e5987c55486a12ebc02bfc57caf,v1_0106.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+af14b1f43e376305e55d4e267ba9dd4e0f49e0481d5d339c9d33410ca8ce8581,v1_0107.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+e9a0183cd33f1b900316ef1981e4fe961a3f9d55be9a8542e5c858825355c3fa,v1_0108.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+9d65b8ff65397fa98915bbeaebebc8f9329ac20bf8ee0cebdbe1cc7128822695,v1_0109.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+cf0a21b893596cb97b582ab2dadf7569b780828bc900bc5024014539518e74f3,v1_0110.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+6bf63e36178c8da4e511b1235104e6048d99155123956f925c9084d5d109414f,v1_0112.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+e6548a3dc702aaac55f5927cee7040767599d2c2a957e30f8fde4ee968a2ec8b,v1_0113.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+0c7d4050b7a8a2e520e6c59faa52f73b471736a79d434b767bff20d295541c7b,v1_0114.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+32d789e9c59adab3197f827095fba91bd0a3871ca7120ff458988ff1fda4a2d3,v1_0117.exe,v1_misto,upx,plausibile,True,True,True,True,0.8973,6.62,496,0,
+559afa9e05151edda29464860e63eb14cd264c4a6e47f463827de0552fa53c19,v1_0118.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+abd02fbb6fce0f548d6deeb081323ce945926e98a68923c26da91451a0512e1f,v1_0120.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+10affd84e0fb89eefe5617ffc73a8d781624eb0dc9c1a1418485172896e069ba,v1_0121.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+da54fb8d2d8ea65f13ac67822b2799c9a31e3609e0024ab3e826069a13e610f4,v1_0123.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+777c10ac8600ce4ca1b7f2aec2bdb7a5fd58b76b1255b92ee67a6a73dddd746f,v1_0127.exe,v1_misto,sevenzip,non_plausibile,True,False,True,False,0.8936,7.99,193,1,
+d8f83db210d059bebc7a9c3684a4fab19fcf8c15b61752bbe58fc6ed57d4f06b,v1_0129.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+e52f13d369d3321d580c802773b238faffe23cd246f2efdf2bb0c108bbc009a1,v1_0130.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+a996d1e036ef3c5acbc5f2628160832cd683196fddd0abf183283f117f89ff25,v1_0131.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+48f5076876e0e505623db6bb61a3884588212102d9a910ce15196b4abb788de8,v1_0133.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+c01661ca125daee80b0f5fb57972544c3a670ed208faae3a571ae3190e5dbd6e,v1_0134.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+34c29b1d80a0ff6eab9f64f0cd68a58aeca52e8b4393e4027923820959766936,v1_0136.exe,v1_misto,unipacker,non_plausibile,True,True,True,False,0.7836,6.47,1626,1,
+dedcadd21e0c70e469c44aa492a7d7cb935642c5fe30e757c42ae3a238e33932,v1_0137.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+8940c062ad313eedbc6ecf736300a5ae0ff072b6856ec87d3853f98c2261bda4,v1_0138.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+f495411d9daef3547f20dc6e9556b5613c63d07e6d6912d52ee9294e7b10fa60,v1_0139.exe,v1_misto,unipacker,non_plausibile,True,True,True,False,0.6855,6.84,529,1,
+46a3f5736f4563750bd921fbe12044820d91046f5714552db2a8e545c09df8e9,v1_0141.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+56ba9311eb420ca92c28dca03449f6922aa30d3f936819efa2b078b64efc8928,v1_0143.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+2a4ad4d2c3a850660d3ef2a5945143c670ed9e04b53cd399415ce190f7f7192b,v1_0144.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+d68b204560c907dc099b6b93fcc068ef08001f82136afee17cfcafa835e26de2,v1_0145.exe,v1_misto,unipacker,non_plausibile,True,True,True,False,0.8899,6.62,2509,1,
+1822df856d08a88f78bc9a2d1422f7da98555a96ae8d157c20b17e002129f100,v1_0147.exe,v1_misto,upx,plausibile,True,True,True,True,0.9142,6.8,873,0,
+a7ae72e39f2c063bec7fcd59798642bdd7feb553d03034f27bd1565f0c3369e6,v1_0149.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+04853553fd75a915284cfd478662ae7435e715725ac7e72689e9e6db062565d0,v1_0151.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+c2e2db410fa64b8c9eb1e614116585d08d6d3735036e7c38c9c15dc0495baec0,v1_0153.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+2c468ea05512ba980a46bb11f0cce9af3f5ea26f905691c6c0231041eff28968,v1_0154.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+ea9230d1b625788b1ca92aa385aebde558ec966407a134b96c482a153e482d5f,v1_0155.exe,v1_misto,unipacker,non_plausibile,True,True,True,False,0.6535,5.52,436,1,
+96a687e05c1f3fa43d3b0c22b4dcbed72db8b1dd0b99fcb239c729ddedd8b574,v1_0156.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+64519b206f6e8ba13543cf38323139efc34d39181cdf92a85c7034754f635297,v1_0158.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+020cc7f74cce5b28bace85ecc131558c1d18cb9b5d2e465362c3a6cb784fee9f,v1_0159.exe,v1_misto,upx,plausibile,True,True,True,True,0.8795,6.74,3400,0,
+9e7c04cc7b61c0af6aecefef12fe3e533c0bdd5f73ee81600495c1799ca14079,v1_0160.exe,v1_misto,unipacker,non_plausibile,True,False,True,False,0.6628,7.76,459,1,
+42093a28c303a48a568bbcf6a05295b7bcfd78d323cb50a13b58b6e4b77e8f6a,v1_0162.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+0921b3ad139b64df5177331be548098b1fc67b6d497ffe075fbfdef50421f6ce,v1_0163.exe,v1_misto,unipacker,non_plausibile,True,True,True,False,0.7854,6.0,662,1,
+d5153d03959dbfca5a099f7049a72d264b0420b52a00faf3083d1eab5d33ed7b,v1_0166.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+a5263715e826d0dc40a8baaad57d13d9915538be3b35b6614f51642a7da7ba8c,v1_0167.exe,v1_misto,unipacker,non_plausibile,True,False,True,False,0.686,7.33,468,1,
+6a2d0e38d7a7e9f7bf090b91276e8ab3fe1c509cb72571ed024e3937fdbd35f1,v1_0170.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+ad96d95714a446958967ea11225601f42ccefeee8425773bdbf19c1220a98fa8,v1_0172.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+892f289b39eb2dd71da0eaadab424b3f94ed80ce21ac11c83602fa7e95564c42,v1_0173.exe,v1_misto,sevenzip,plausibile,True,True,True,True,0.8676,7.11,3438,0,
+ac8b9194de03a9a8ab255b23f5633f424f5594f493b48fc912beccabab7b3b95,v1_0176.exe,v1_misto,unipacker,non_plausibile,True,True,True,False,0.2419,7.07,1123,1,
+e3da6ce13cecf074b37447f11ed84fc039b23ae09c1f8c51f123cb3d8206ca43,v1_0178.exe,v1_misto,unipacker,non_plausibile,True,True,True,False,0.7194,6.01,715,1,
+16bda6a0b3240c694e3f8c7482eebc18fdcf160918057d95f6cb8ce2976a45b7,v1_0179.exe,v1_misto,sevenzip,plausibile,True,True,True,True,0.8685,6.83,3437,0,
+85031fce8a5d3bf0be4c19d06098d7c02821a2e4d6e6cdc4cd138d298445b355,v1_0181.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+caef6c83208c49bae38a319dcc6c78403c373c1e4fecfc1a23a5cb1c1408718a,v1_0182.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+c5cc137e82e4b6ccd41ab9a4b51e2cd8f8738707d1420524db365a8b1ae9a2ee,v1_0184.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+5a480ebaa183145e7476b8c3a17db5158622d0306f5003f9a100f7adbc46285e,v1_0186.exe,v1_misto,unipacker,non_plausibile,True,True,True,False,0.7437,6.18,284,1,
+bcadad881b3e29a136c9afc2b46575de3318b17fe61c674516f0ffc56ff9b84b,v1_0188.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+c73f59cf7ade7b873eab9276b5510ce8ded1a941ef2fa67a76c8ecfd413ad413,v1_0189.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+f5cc87e0b1021ea04196488e5cc54ffbbb75f28f0312fdb98b65488c12d1b433,v1_0191.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+51217e34233dcbe605a69a18a67610168728086f41e0ca1025a19f6a6ad6153a,v1_0194.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+a6a71b5aa70c1e5a06514c65d15adfad4ecc0541f83d74f2087654ac95898db1,v1_0196.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+243b10eb79f144889371edabc2d91214d7ab8d6791a018d7481560db08b40e4c,v1_0198.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+2e270373f328ea55791c9efb4b5b3e65c59f8438ac4b9aa660bd8055eb00a7a3,v1_0200.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+ffb3b33e49291cb092039d5edfb65819dbcb8197926d5494a6e7997f9716328f,v1_0201.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+a5b61e3e3420810ceb93998fad9dfa82340ec78686b115f041cf30949d9ebade,v1_0202.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+a2c118b32d443c7bae63f2e97a3d4363c51c01f404e99ce3cbe8df5fdfe50073,v1_0203.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+93bdb5213b54f0132167dcbeb199a1d2ac08886900b546a7ae0bd8c5268e6b55,v1_0204.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+4054adb60fca63e39af438f69f1d9d1ba93604c16fd9ec9e5212df2a87614b28,v1_0205.exe,v1_misto,sevenzip,plausibile,True,True,True,True,0.7887,6.07,364,0,
+3d6099f02b96ae0146711ed55056b9d369dfc22776049dce83559fdada54fb43,v1_0207.exe,v1_misto,upx,plausibile,True,True,True,True,0.8486,6.64,170,0,
+e8f41173cd95d583ae1e9722a5cbbd598ccaf370bbc0aea9ec7369c679571da5,v1_0208.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+33b91364440942bd4ded9fba2106967a038b5c0eadde943df118362c7f12053e,v1_0209.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+01755d66a8438c8b4249cc59d78f96767e7d757e79f8002942cbc579c4a0eb77,v1_0210.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+180645c54be2a73a11f4687f5358b95d1b4337268acd5cc3e1a220d1a67bffa7,v1_0211.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+8d7e873fe1abdb6670e97dfbd3a1435e73092e570d9036189463d3c54a2c14fd,v1_0213.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+764904b2c70039223defd1dcb237e1d38c60586d5db95d073113eaf30ed18624,v1_0214.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+3d9dc63e5f04ae987d206724b61880dc10bd96137582a4337f441caeb3742594,v1_0219.exe,v1_misto,unipacker,non_plausibile,True,False,True,False,0.6993,7.84,1101,1,
+d0817da308aefda2c66322f7be432f6e56cef7e56468e8211ac54dbf2f87adf7,v1_0220.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+e0a5358f18d4a8fb1ceb9dfe953a08e0213ec3f696b721967812f865ffe1fd0c,v1_0221.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+3843bc6e25e2962aa809ef9a2d14272ae3e8a7386a5a3a4be70a9e40d47badc6,v1_0223.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+3ff3cbc6742d2caa5ab5f799b8d4a6c2885e72f7cf7677ffdcdf037b8c29cdb1,v1_0224.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+15c81968e22062b90b390d91ff3f30bf357339b085e2c7c9a13cea965ddb67a8,v1_0226.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+a2d3a189643b644a24026e7ef34bc34f64b9a4e3a4d99fba6f246afd151e272a,v1_0227.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+f9dc9cbef0b7b8b35ebd93ec16f9e6aa7ca9abf9cd773f2fccd4de5953cb3cbd,v1_0228.exe,v1_misto,sevenzip,plausibile,True,True,True,True,0.8677,6.84,2837,0,
+9e907c97678b56f39234bd2847a6bbe2d7bb30451cb018e2fa57115488160358,v1_0229.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+84c935ac39f39a879ca81df47d27e831b50598bfa2a876b4a517e15d6d8cab91,v1_0230.exe,v1_misto,unipacker,non_plausibile,True,False,True,False,0.6485,7.73,452,1,
+2ce4df7f3fb2dde3c4e910dc42c35ec7c70dccbb7f6f20fe2cc61d701263c169,v1_0231.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+b1a8ba56209d3969d19498b16df086d4d32a419cf4ba43d5a932c3a3a7ae72f9,v1_0232.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+b6d9c255ed822a84b01c57f4278aec68fc939e16725c84ebda0406965afe08dc,v1_0235.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+4d598ecfc8ee3c9a05854d16a1c997ef111470ddc6f98ee76b25395a7a257d9b,v1_0236.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+f5ad9c93c3d769ae18cf9b35a1af553a152efb1f2a10477d106b1bc7c1b247ad,v1_0237.exe,v1_misto,sevenzip,plausibile,True,True,True,True,0.871,6.83,3818,0,
+69d5577f0057511e51070138be46d98697b492acecae2f9b89887374e17afd27,v1_0239.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+73a6d2b3f0c9b9530dec16259c71860c4e31d74c593d34b4e17a29f11ed62c2b,v1_0240.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+f0ef87fca34365c5fdd8352d3f0cc9b78751768e8fa85e066d0303299467be91,v1_0242.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+e83e2cd3601af25e676ac2d1a1748b802b9647a367cdd7998ab720af2bcc88d2,v1_0244.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+5d4bc8af5d20332162df398ce1b1cc4c53fb4663035499faacdae243891fb2e2,v1_0246.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+c943dce7a6b7e109d439824c6a2e5dc10758ed72d49ccdf8737ba2b592c452f7,v1_0247.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+8d5992d7bc2a24eb94364ab0ecc5d964088a71f37d2320a34b31d91c6408fd23,v1_0248.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+732d3f18c4bc29aafa17fb264c73a578c9d0329c06118910b34f677538f0e8e2,v1_0249.exe,v1_misto,upx,plausibile,True,True,True,True,0.8891,6.62,456,0,
+f19e46383fb2a29a43e1c2e7e1647d719ae7415cf7f08bd2d7707fa21b33df28,v1_0250.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+6aca30bdb4eecb0d2644fd5465c3ec58ba1704ab2c5f259aaf1cd1d71142614e,v1_0252.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+9991b8b6de2fa69ec06fa7e784d672de028422eefd7fb6e5911a71775801892f,v1_0254.exe,v1_misto,unipacker,non_plausibile,True,True,True,False,0.8896,6.53,901,1,
+cb564e672e5dbe17132bf683adc48400db37ecac60fbc309c4d8312633253aa8,v1_0255.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+93568ec1e5a1061c514ab28a5385ab69681a7c7d3affd121f1d01c92da6a7825,v1_0256.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+6e78b9e6068fdcb9c54080da93b8f6976d478f82b0512d780cc318df1eb17169,v1_0258.exe,v1_misto,unipacker,non_plausibile,True,True,True,False,0.8622,6.88,539,1,
+f8afcebe831bf690488c6e213e9a924571f542468e9c23b607b0ca289d237457,v1_0259.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+8d68476648f7a70b0831fb2b7c9284faf012e30d227ca7d9f65cfbe9009a46f0,v1_0260.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+757a2f9fc2425325285641ef74c25e0912d74166809f117e027829dcdb0dea87,v1_0262.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+590938c8f57c202d9f70b84db9e3aa4da7f3c2c8373ff0fe7f5e99ef4655da6b,v1_0263.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+8f93673fcab8e0e92ecc6c497281e707686977683a20f8ca403991956e8878c2,v1_0264.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+21fbf1bfa96810fc7d722d9954118a10c477177dee31b057920444eb02af11fb,v1_0265.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+574f6515a3f31d4e5a49e6c1cb8d777146683920584f0e93ee947760d828cf73,v1_0266.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+d898e261335f18814e5a66e206aed77a8dc8fd12c5f232faa481ef872761830f,v1_0267.exe,v1_misto,,non_plausibile,,,,,,,,,nessun output prodotto
+db5891307c325c643f863321b61a6a3e8d8afe84ba65e65dcefe8ab6bf762183,v1_0268.exe,v1_misto,sevenzip,plausibile,True,True,True,True,0.8086,6.04,221,0,

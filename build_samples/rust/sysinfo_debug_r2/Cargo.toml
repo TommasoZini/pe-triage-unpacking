@@ -1,0 +1,7 @@
+[package]
+name = "sysinfo_debug_r2"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# Rust build variant: DEBUG (cargo build)

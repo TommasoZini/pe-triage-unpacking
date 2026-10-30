@@ -1,0 +1,302 @@
+{
+  "Lab01-01": {
+    "label": "clean",
+    "note": "PMA: non pacchettizzato. Fonte: Appendice C del libro (p. 478 e seguenti), corroborata da due writeup pubblici indipendenti",
+    "packers": [],
+    "source": "manual"
+  },
+  "Lab01-02": {
+    "label": "packed",
+    "note": "PMA cap.1: UPX. Confermato da upx -t, sezioni UPX0/1/2, YARA e DIE",
+    "packers": [
+      "UPX"
+    ],
+    "source": "manual"
+  },
+  "Lab01-04": {
+    "label": "clean",
+    "note": "PMA: non pacchettizzato (PEiD, raw size vicina alla virtuale, import normali). ATTENZIONE: unico rebuild per Windows 7 del set (timestamp 2019-08-30), quindi la fonte e' la verifica diretta dell'utente, non il libro",
+    "packers": [],
+    "source": "manual"
+  },
+  "Lab03-01": {
+    "label": "clean",
+    "note": "PMA cap.3: NON pacchettizzato. Ha un solo import (ExitProcess) e .text di 104 byte, ma il disassemblato dell'EP mostra solo 'mov eax,0x400400; call eax' verso codice in chiaro in .data: offuscamento dell'import table con risoluzione dinamica, non packing. Entropia .data 6.65, incompatibile con compressione. Controesempio importante: un IAT minimale NON implica packed",
+    "packers": [],
+    "source": "manual"
+  },
+  "Lab03-04": {
+    "label": "clean",
+    "note": "PMA: non pacchettizzato. Fonte: Appendice C del libro (p. 478 e seguenti), corroborata da due writeup pubblici indipendenti",
+    "packers": [],
+    "source": "manual"
+  },
+  "Lab06-01": {
+    "label": "clean",
+    "note": "PMA: non pacchettizzato. Fonte: Appendice C del libro (p. 478 e seguenti), corroborata da due writeup pubblici indipendenti",
+    "packers": [],
+    "source": "manual"
+  },
+  "Lab06-02": {
+    "label": "clean",
+    "note": "PMA: non pacchettizzato. Fonte: Appendice C del libro (p. 478 e seguenti), corroborata da due writeup pubblici indipendenti",
+    "packers": [],
+    "source": "manual"
+  },
+  "Lab06-03": {
+    "label": "clean",
+    "note": "PMA: non pacchettizzato. Fonte: Appendice C del libro (p. 478 e seguenti), corroborata da due writeup pubblici indipendenti",
+    "packers": [],
+    "source": "manual"
+  },
+  "Lab06-04": {
+    "label": "clean",
+    "note": "PMA: non pacchettizzato. Fonte: Appendice C del libro (p. 478 e seguenti), corroborata da due writeup pubblici indipendenti",
+    "packers": [],
+    "source": "manual"
+  },
+  "Lab07-02": {
+    "label": "clean",
+    "note": "PMA cap.7: DoS/DDoS via apertura link, non pacchettizzato",
+    "packers": [],
+    "source": "manual"
+  },
+  "Lab07-03": {
+    "label": "clean",
+    "note": "PMA: non pacchettizzato. Fonte: Appendice C del libro (p. 478 e seguenti), corroborata da due writeup pubblici indipendenti",
+    "packers": [],
+    "source": "manual"
+  },
+  "Lab07_01": {
+    "label": "clean",
+    "note": "PMA: non pacchettizzato. Fonte: Appendice C del libro (p. 478 e seguenti), corroborata da due writeup pubblici indipendenti",
+    "packers": [],
+    "source": "manual"
+  },
+  "Lab09-02": {
+    "label": "clean",
+    "note": "PMA: non pacchettizzato. Fonte: Appendice C del libro (p. 478 e seguenti), corroborata da due writeup pubblici indipendenti",
+    "packers": [],
+    "source": "manual"
+  },
+  "Lab09-03": {
+    "label": "clean",
+    "note": "PMA: non pacchettizzato. Fonte: Appendice C del libro (p. 478 e seguenti), corroborata da due writeup pubblici indipendenti",
+    "packers": [],
+    "source": "manual"
+  },
+  "Lab10-01": {
+    "label": "clean",
+    "note": "PMA: non pacchettizzato. Fonte: Appendice C del libro (p. 478 e seguenti), corroborata da due writeup pubblici indipendenti",
+    "packers": [],
+    "source": "manual"
+  },
+  "Lab10-02": {
+    "label": "clean",
+    "note": "PMA: non pacchettizzato. Fonte: Appendice C del libro (p. 478 e seguenti), corroborata da due writeup pubblici indipendenti",
+    "packers": [],
+    "source": "manual"
+  },
+  "Lab10-03": {
+    "label": "clean",
+    "note": "PMA: non pacchettizzato. Fonte: Appendice C del libro (p. 478 e seguenti), corroborata da due writeup pubblici indipendenti",
+    "packers": [],
+    "source": "manual"
+  },
+  "Lab11-01": {
+    "label": "clean",
+    "note": "PMA: non pacchettizzato. Fonte: Appendice C del libro (p. 478 e seguenti), corroborata da due writeup pubblici indipendenti",
+    "packers": [],
+    "source": "manual"
+  },
+  "Lab11-03": {
+    "label": "clean",
+    "note": "PMA: non pacchettizzato. Fonte: Appendice C del libro (p. 478 e seguenti), corroborata da due writeup pubblici indipendenti",
+    "packers": [],
+    "source": "manual"
+  },
+  "Lab12-01": {
+    "label": "clean",
+    "note": "PMA: non pacchettizzato. Fonte: Appendice C del libro (p. 478 e seguenti), corroborata da due writeup pubblici indipendenti",
+    "packers": [],
+    "source": "manual"
+  },
+  "Lab12-02": {
+    "label": "clean",
+    "note": "PMA: non pacchettizzato. Fonte: Appendice C del libro (p. 478 e seguenti), corroborata da due writeup pubblici indipendenti",
+    "packers": [],
+    "source": "manual"
+  },
+  "Lab12-03": {
+    "label": "clean",
+    "note": "PMA: non pacchettizzato. Fonte: Appendice C del libro (p. 478 e seguenti), corroborata da due writeup pubblici indipendenti",
+    "packers": [],
+    "source": "manual"
+  },
+  "Lab12-04": {
+    "label": "clean",
+    "note": "PMA: non pacchettizzato. Fonte: Appendice C del libro (p. 478 e seguenti), corroborata da due writeup pubblici indipendenti",
+    "packers": [],
+    "source": "manual"
+  },
+  "Lab13-01": {
+    "label": "clean",
+    "note": "PMA: non pacchettizzato. Fonte: Appendice C del libro (p. 478 e seguenti), corroborata da due writeup pubblici indipendenti",
+    "packers": [],
+    "source": "manual"
+  },
+  "Lab13-02": {
+    "label": "clean",
+    "note": "PMA: non pacchettizzato. Fonte: Appendice C del libro (p. 478 e seguenti), corroborata da due writeup pubblici indipendenti",
+    "packers": [],
+    "source": "manual"
+  },
+  "Lab13-03": {
+    "label": "clean",
+    "note": "PMA: non pacchettizzato. Fonte: Appendice C del libro (p. 478 e seguenti), corroborata da due writeup pubblici indipendenti",
+    "packers": [],
+    "source": "manual"
+  },
+  "Lab14-01": {
+    "label": "clean",
+    "note": "PMA: non pacchettizzato. Fonte: Appendice C del libro (p. 478 e seguenti), corroborata da due writeup pubblici indipendenti",
+    "packers": [],
+    "source": "manual"
+  },
+  "Lab14-02": {
+    "label": "clean",
+    "note": "PMA: non pacchettizzato. Fonte: Appendice C del libro (p. 478 e seguenti), corroborata da due writeup pubblici indipendenti",
+    "packers": [],
+    "source": "manual"
+  },
+  "Lab14-03": {
+    "label": "clean",
+    "note": "PMA: non pacchettizzato. Fonte: Appendice C del libro (p. 478 e seguenti), corroborata da due writeup pubblici indipendenti",
+    "packers": [],
+    "source": "manual"
+  },
+  "Lab15-01": {
+    "label": "clean",
+    "note": "PMA cap.15: anti-disassembly (cross-reference usate 5 volte), non pacchettizzato",
+    "packers": [],
+    "source": "manual"
+  },
+  "Lab15-02": {
+    "label": "clean",
+    "note": "PMA: non pacchettizzato. Fonte: Appendice C del libro (p. 478 e seguenti), corroborata da due writeup pubblici indipendenti",
+    "packers": [],
+    "source": "manual"
+  },
+  "Lab15-03": {
+    "label": "clean",
+    "note": "PMA: non pacchettizzato. Fonte: Appendice C del libro (p. 478 e seguenti), corroborata da due writeup pubblici indipendenti",
+    "packers": [],
+    "source": "manual"
+  },
+  "Lab16-01": {
+    "label": "clean",
+    "note": "PMA: non pacchettizzato. Fonte: Appendice C del libro (p. 478 e seguenti), corroborata da due writeup pubblici indipendenti",
+    "packers": [],
+    "source": "manual"
+  },
+  "Lab16-02": {
+    "label": "clean",
+    "note": "PMA: non pacchettizzato. Fonte: Appendice C del libro (p. 478 e seguenti), corroborata da due writeup pubblici indipendenti",
+    "packers": [],
+    "source": "manual"
+  },
+  "Lab16-03": {
+    "label": "clean",
+    "note": "PMA: non pacchettizzato. Fonte: Appendice C del libro (p. 478 e seguenti), corroborata da due writeup pubblici indipendenti",
+    "packers": [],
+    "source": "manual"
+  },
+  "Lab17-01": {
+    "label": "clean",
+    "note": "PMA: non pacchettizzato. Fonte: Appendice C del libro (p. 478 e seguenti), corroborata da due writeup pubblici indipendenti",
+    "packers": [],
+    "source": "manual"
+  },
+  "Lab17-03": {
+    "label": "clean",
+    "note": "PMA: non pacchettizzato. Fonte: Appendice C del libro (p. 478 e seguenti), corroborata da due writeup pubblici indipendenti",
+    "packers": [],
+    "source": "manual"
+  },
+  "Lab18-01": {
+    "label": "packed",
+    "note": "PMA cap.18: UPX. Confermato da DIE e sezione UPX2",
+    "packers": [
+      "UPX"
+    ],
+    "source": "manual"
+  },
+  "Lab18-02": {
+    "label": "packed",
+    "note": "PMA cap.18: FSG 1.0 (PE Detective). Ne' DIE ne' YARA lo nominano: rilevato solo da segnali strutturali deboli (EP in sezione senza nome, H>=7.2)",
+    "packers": [
+      "FSG 1.0"
+    ],
+    "source": "manual"
+  },
+  "Lab18-03": {
+    "label": "packed",
+    "note": "PMA cap.18: PECompact. Confermato da DIE, EP in sezione pec2",
+    "packers": [
+      "PECompact"
+    ],
+    "source": "manual"
+  },
+  "Lab18-04": {
+    "label": "packed",
+    "note": "PMA cap.18: ASPack. Confermato da sezioni .aspack/.adata, YARA e DIE",
+    "packers": [
+      "ASPack"
+    ],
+    "source": "manual"
+  },
+  "Lab18_05": {
+    "label": "packed",
+    "note": "PMA cap.18: (Win)Upack. Confermato da DIE; nome di sezione binario non-UTF8",
+    "packers": [
+      "(Win)Upack"
+    ],
+    "source": "manual"
+  },
+  "Lab19-02": {
+    "label": "clean",
+    "note": "PMA: non pacchettizzato. Fonte: Appendice C del libro (p. 478 e seguenti), corroborata da due writeup pubblici indipendenti",
+    "packers": [],
+    "source": "manual"
+  },
+  "Lab20-01": {
+    "label": "clean",
+    "note": "PMA: non pacchettizzato. Fonte: Appendice C del libro (p. 478 e seguenti), corroborata da due writeup pubblici indipendenti",
+    "packers": [],
+    "source": "manual"
+  },
+  "Lab20-02": {
+    "label": "clean",
+    "note": "PMA: non pacchettizzato. Fonte: Appendice C del libro (p. 478 e seguenti), corroborata da due writeup pubblici indipendenti",
+    "packers": [],
+    "source": "manual"
+  },
+  "Lab20-03": {
+    "label": "clean",
+    "note": "PMA: non pacchettizzato. Fonte: Appendice C del libro (p. 478 e seguenti), corroborata da due writeup pubblici indipendenti",
+    "packers": [],
+    "source": "manual"
+  },
+  "Lab21-01": {
+    "label": "clean",
+    "note": "PMA: non pacchettizzato. Fonte: Appendice C del libro (p. 478 e seguenti), corroborata da due writeup pubblici indipendenti",
+    "packers": [],
+    "source": "manual"
+  },
+  "Lab21-02": {
+    "label": "clean",
+    "note": "PMA: non pacchettizzato. Fonte: Appendice C del libro (p. 478 e seguenti), corroborata da due writeup pubblici indipendenti",
+    "packers": [],
+    "source": "manual"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "x64_ClipUp.exe": {
+    "label": "packed",
+    "note": "Componente di licensing. .text a entropia 7.48 contro 6.28 di un binario normale",
+    "packers": [
+      "Microsoft Warbird"
+    ],
+    "source": "manual"
+  },
+  "x64_GenValObj.exe": {
+    "label": "packed",
+    "note": "Componente di licensing. .text a entropia 7.70, il piu' alto del set clean: piu' vicino a un blob casuale (8.0) che a codice compilato",
+    "packers": [
+      "Microsoft Warbird"
+    ],
+    "source": "manual"
+  },
+  "x64_SppExtComObj.Exe": {
+    "label": "packed",
+    "note": "Componente SPP. .text a entropia 7.53 e sezione '?g_Encry...'. Come sppsvc.exe",
+    "packers": [
+      "Microsoft Warbird"
+    ],
+    "source": "manual"
+  },
+  "x64_sppsvc.exe": {
+    "label": "packed",
+    "note": "Software Protection Platform. Offuscato dal framework Warbird di Microsoft: .text a entropia 7.19 contro 6.28 di notepad.exe, piu' quattro sezioni '?g_Encry...' che nessun compilatore produce. DIE NON lo segnala (riporta solo license e signature): rilevato dai soli segnali strutturali",
+    "packers": [
+      "Microsoft Warbird"
+    ],
+    "source": "manual"
+  },
+  "x64_wextract.exe": {
+    "label": "packed",
+    "note": "SFX self-extractor Microsoft, identificato da DIE come 'sfx: Microsoft Cabinet'. Vero positivo per la definizione adottata: il payload e' compresso e richiede estrazione, indipendentemente dalla legittimita' del file. Firmato Microsoft",
+    "packers": [
+      "Microsoft Cabinet SFX"
+    ],
+    "source": "manual"
+  },
+  "x86_Windows.Media.Protection.PlayReady.dll": {
+    "label": "packed",
+    "note": "DRM PlayReady di Microsoft. .text a entropia 7.96 su 4,9 MB di codice e .rdata a 7.58: il valore piu' alto dell'intero set clean, superiore a GenValObj (7.70) e sppsvc (7.19). Il codice DRM e' offuscato per progetto, e' letteralmente il suo scopo. Stessa categoria dei Warbird: protezione applicata dal vendor, vero positivo per la definizione adottata",
+    "packers": [
+      "Microsoft PlayReady DRM"
+    ],
+    "source": "manual"
+  },
+  "x86_wextract.exe": {
+    "label": "packed",
+    "note": "Variante 32 bit di x64_wextract.exe: stesso SFX, stessa motivazione",
+    "packers": [
+      "Microsoft Cabinet SFX"
+    ],
+    "source": "manual"
+  }
+}

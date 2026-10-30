@@ -1,0 +1,8 @@
+[package]
+name = "rpncalc_release_r3"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+# Rust build variant: RELEASE (cargo build --release) - default release profile.

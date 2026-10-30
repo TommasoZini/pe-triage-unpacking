@@ -1,0 +1,12 @@
+[package]
+name = "primesieve_optz_r6"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+# Rust build variant: RELEASE + opt-level="z" + lto=true (cargo build --release)
+[profile.release]
+opt-level = "z"
+lto = true
+codegen-units = 1
